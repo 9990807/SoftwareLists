@@ -31,6 +31,10 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [SoundSwitch](https://github.com/Belphemur/SoundSwitch) - Switch playback and recording devices with hotkeys.
 - [Winamp](http://winamp.com/) - Classic audio player since 1997, compact, versatile, modular.
 
+### Data Backup and Recovery
+
+- [Veeam Agent](https://www.veeam.com/windows-endpoint-server-backup-free.html) - Simple solution for backing up Windows-based desktops, laptops and tablets.
+
 ### Download Tools
 
 - [Aria2](https://aria2.github.io/) - Command-line utility, supports multi-connection downloads and BitTorrrent protocol.
@@ -62,6 +66,10 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - HDD/SSD S.M.A.R.T. information.
 - [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU information.
 - [HWiNFO](https://www.hwinfo.com/download/) - In-depth hardware information and real-time monitoring.
+- [NirLauncher ](https://launcher.nirsoft.net/) - Set of utilities for password recovery, system monitoring and advanced configuration.
+- [Ventoy](https://www.ventoy.net/en/download.html) - Tool to create bootable USB drives for ISO/WIM/IMG/VHD(x)/EFI files.
+- [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) - Various utilities to manage, troubleshoot and diagnose Windows systems and applications.
+
 
 ### Video
 
