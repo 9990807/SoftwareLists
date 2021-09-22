@@ -26,6 +26,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Chocolatey](https://chocolatey.org/install) - Command-line Linux-like software package manager.
 - [Classic Shell](http://classicshell.net/) - Start menu enhancement.
 - [Directory Opus](https://www.gpsoft.com.au/) - Complete replacement for Windows Explorer. Fully customizable, scripting, filters.
+- [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly.
 
 ### Audio
 
