@@ -45,6 +45,10 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [7-Zip](https://www.7-zip.org/download.html) - Preferred compressed files utility.
 
+### Graphics
+
+- [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) - Image browser, converter and editor.
+
 ### System Utilities
 
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU, motherboard and memory information.
