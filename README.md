@@ -11,6 +11,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Desktop Customization](#desktop-customization)
 - [Download](#download-tools)
 - [Editors](#editors)
+- [Emulation](#emulation)
 - [File Manager](#file-manager)
 - [Graphics](#graphics)
 - [Productivity](#productivity)
@@ -34,6 +35,10 @@ This repo is a curated collection of Windows applications and tools that I use r
 ### Download Tools
 
 - [Aria2](https://aria2.github.io/) - Command-line utility, supports multi-connection downloads and BitTorrrent protocol.
+
+### Emulation
+
+- [DOSBox](https://www.dosbox.com/download.php?main=1) - Emulator that recreates a complete MS-DOS compatible environment.
 
 ### File Manager
 
