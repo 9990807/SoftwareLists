@@ -4,7 +4,7 @@ This repo is a collection of Windows applications and tools that I use regularly
 
 ## Table of Contents
 
-- [Must-haves](#must-haves)
+- [Must-have](#must-have)
 - [Audio](#audio)
 - [Chat Clients](#chat-clients)
 - [Data Backup and Recovery](#data-backup-and-recovery)
@@ -15,12 +15,12 @@ This repo is a collection of Windows applications and tools that I use regularly
 - [Graphics](#graphics)
 - [Productivity](#productivity)
 - [Security](#security)
-- [Utilities](#utilities)
+- [System Utilities](#utilities)
 - [Video](#video)
 
 ***********
 
-### Must-haves
+### Must-have
 
 - [Chocolatey](https://chocolatey.org/install) - Command-line Linux-like software package manager.
 - [Classic Shell](http://classicshell.net/) - Start menu enhancement.
@@ -37,6 +37,12 @@ This repo is a collection of Windows applications and tools that I use regularly
 ### File Manager
 
 - [7-Zip](https://www.7-zip.org/download.html) - Preferred compressed files utility.
+
+### System Utilities
+
+- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU, motherboard and memory information.
+- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - HDD/SSD S.M.A.R.T. information.
+- [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU information.
 
 ### Video
 
