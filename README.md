@@ -34,6 +34,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 ### Download Tools
 
 - [Aria2](https://aria2.github.io/) - Command-line utility, supports multi-connection downloads and BitTorrrent protocol.
+- 
 
 ### Editors
 
@@ -48,10 +49,12 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [7-Zip](https://www.7-zip.org/download.html) - Preferred compressed files utility.
 - [ImageUSB](https://www.osforensics.com/tools/write-usb-images.html) - Create and write images from and to USB devices.
+- [OpenHashTab](https://github.com/namazso/OpenHashTab) - Shell extension for calculating and checking file hashes from file properties.
 
 ### Graphics
 
 - [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) - Image browser, converter and editor.
+- [Paint.NET](https://www.getpaint.net/download.html) - Simple image editor with layers, filters and plugins.
 
 ### System Utilities
 
@@ -67,6 +70,8 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [lossless-cut](https://github.com/mifi/lossless-cut) - Lossless trimming and cutting of video and audio files.
 - [MakeMKV](https://makemkv.com/download/) - Converts proprietary encrypted DVD and Blu-ray discs into a set of MKV files losslessly.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) - Display technical data for video and audio files.
+- [MKVToolNix](https://mkvtoolnix.download/) - Set of tools to create, alter and inspect Matroska (MKV) files.
+- [OBS Studio](https://obsproject.com/) - Screen capture and live streaming.
 - [SVP](https://www.svp-team.com/get/) - Realtime framerate interpolation for video to produce smooth, fluid and clear motion.
 - [VLC](https://www.videolan.org/vlc/) - Simple and reliable multimedia player, all codecs included.
 - [ZoomPlayer](https://zoomplayer.com/) - Highly customizable video player. Integrated codec management, media library mode with automated scraping.
