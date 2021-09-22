@@ -15,7 +15,7 @@ This repo is a collection of Windows applications and tools that I use regularly
 - [Graphics](#graphics)
 - [Productivity](#productivity)
 - [Security](#security)
-- [System Utilities](#utilities)
+- [System Utilities](#system-utilities)
 - [Video](#video)
 
 ***********
