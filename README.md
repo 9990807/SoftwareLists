@@ -19,7 +19,6 @@ This repo is a collection of Windows applications and tools that I use regularly
 - [Productivity](#productivity)
 - [Security](#security)
 - [Sharing Files](#sharing-files)
-- [Terminal](#terminal)
 - [Utilities](#utilities)
 - [Video](#video)
 
@@ -29,3 +28,12 @@ This repo is a collection of Windows applications and tools that I use regularly
 
 ### Audio
 
+- [Winamp](http://winamp.com/) - Classic audio player since 1997, compact, versatile, modular.
+
+### File Manager
+
+- [7-Zip](https://www.7-zip.org/download.html) - Preferred compressed files utility.
+
+### Video
+
+- [ZoomPlayer](https://zoomplayer.com/) - Highly customizable video player. Integrated codec management, fantastic media library mode with automated scraping.
