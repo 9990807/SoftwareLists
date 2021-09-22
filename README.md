@@ -4,6 +4,7 @@ This repo is a collection of Windows applications and tools that I use regularly
 
 ## Table of Contents
 
+- [Must-haves](#must-haves)
 - [Audio](#audio)
 - [Chat Clients](#chat-clients)
 - [Data Backup and Recovery](#data-backup-and-recovery)
@@ -18,6 +19,12 @@ This repo is a collection of Windows applications and tools that I use regularly
 - [Video](#video)
 
 ***********
+
+### Must-haves
+
+- [Chocolatey](https://chocolatey.org/install) - Command-line Linux-like software package manager.
+- [Classic Shell](http://classicshell.net/) - Start menu enhancement.
+- [Directory Opus](https://www.gpsoft.com.au/) - Complete replacement for Windows Explorer. Fully customizable, scripting, filters.
 
 ### Audio
 
