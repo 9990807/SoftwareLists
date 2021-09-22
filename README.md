@@ -6,10 +6,8 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [Must-have](#must-have)
 - [Audio](#audio)
-- [Chat Clients](#chat-clients)
 - [Data Backup and Recovery](#data-backup-and-recovery)
-- [Desktop Customization](#desktop-customization)
-- [Download](#download-tools)
+- [Download Tools](#download-tools)
 - [Editors](#editors)
 - [Emulation](#emulation)
 - [File Manager](#file-manager)
@@ -37,6 +35,11 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [Aria2](https://aria2.github.io/) - Command-line utility, supports multi-connection downloads and BitTorrrent protocol.
 
+### Editors
+
+- [MetaPad](https://liquidninja.com/metapad/download.html) - Simple text editor to replace Microsoft Notepad.
+- [Notepad++](https://notepad-plus-plus.org/downloads/) - Source code editor with tabs, syntax highlighting and auto-completion.
+
 ### Emulation
 
 - [DOSBox](https://www.dosbox.com/download.php?main=1) - Emulator that recreates a complete MS-DOS compatible environment.
@@ -61,7 +64,9 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [FFmpeg](https://ffmpeg.org/download.html) - Command-line utility for converting and processing video and audio.
 - [HandBrake](https://handbrake.fr/) - Video transcoding.
+- [lossless-cut](https://github.com/mifi/lossless-cut) - Lossless trimming and cutting of video and audio files.
+- [MakeMKV](https://makemkv.com/download/) - Converts proprietary encrypted DVD and Blu-ray discs into a set of MKV files losslessly.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) - Display technical data for video and audio files.
-- [SVP](https://www.svp-team.com/get/) - Realtime framerate interpolation for video to produce very smooth, fluid and clear motion.
+- [SVP](https://www.svp-team.com/get/) - Realtime framerate interpolation for video to produce smooth, fluid and clear motion.
 - [VLC](https://www.videolan.org/vlc/) - Simple and reliable multimedia player, all codecs included.
 - [ZoomPlayer](https://zoomplayer.com/) - Highly customizable video player. Integrated codec management, media library mode with automated scraping.
