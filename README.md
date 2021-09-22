@@ -25,7 +25,7 @@ This repo is a collection of Windows applications and tools that I use regularly
 
 ### Download Tools
 
-- [Aria2](https://aria2.github.io/) - Lightweight command-line utility, supports multi-connection downloads and BitTorrrent protocol.
+- [Aria2](https://aria2.github.io/) - Command-line utility, supports multi-connection downloads and BitTorrrent protocol.
 
 ### File Manager
 
@@ -33,4 +33,5 @@ This repo is a collection of Windows applications and tools that I use regularly
 
 ### Video
 
+- [FFmpeg](https://ffmpeg.org/download.html) - Command-line utility for converting and processing video and audio.
 - [ZoomPlayer](https://zoomplayer.com/) - Highly customizable video player. Integrated codec management, media library mode with automated scraping.
