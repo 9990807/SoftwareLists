@@ -8,27 +8,24 @@ This repo is a collection of Windows applications and tools that I use regularly
 - [Chat Clients](#chat-clients)
 - [Data Backup and Recovery](#data-backup-and-recovery)
 - [Desktop Customization](#desktop-customization)
-- [Development](#development)
-- [E-Book Utilities](#e-book-utilities)
+- [Download](#download-tools)
 - [Editors](#editors)
-- [Email Utilities](#email)
 - [File Manager](#file-manager)
 - [Graphics](#graphics)
-- [Internet](#internet)
-- [Office](#office)
 - [Productivity](#productivity)
 - [Security](#security)
-- [Sharing Files](#sharing-files)
 - [Utilities](#utilities)
 - [Video](#video)
 
 ***********
 
-## Applications
-
 ### Audio
 
 - [Winamp](http://winamp.com/) - Classic audio player since 1997, compact, versatile, modular.
+
+### Download Tools
+
+- [Aria2](https://aria2.github.io/) - Lightweight command-line utility, supports multi-connection downloads and BitTorrrent protocol.
 
 ### File Manager
 
@@ -36,4 +33,4 @@ This repo is a collection of Windows applications and tools that I use regularly
 
 ### Video
 
-- [ZoomPlayer](https://zoomplayer.com/) - Highly customizable video player. Integrated codec management, fantastic media library mode with automated scraping.
+- [ZoomPlayer](https://zoomplayer.com/) - Highly customizable video player. Integrated codec management, media library mode with automated scraping.
