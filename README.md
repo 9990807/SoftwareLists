@@ -37,8 +37,8 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Download Tools
 
-- [Aria2](https://aria2.github.io/) - Command-line utility, supports multi-connection downloads and BitTorrrent protocol.
-- 
+- [Aria2](https://aria2.github.io/) - Command-line download utility, supports multi-connection downloads and BitTorrrent protocol.
+- [qBittorrent](https://www.qbittorrent.org/download.php) - BitTorrent client, open-source µTorrent replacement.
 
 ### Editors
 
@@ -73,6 +73,14 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Video
 
+#### Players & Plugins
+
+- [SVP](https://www.svp-team.com/get/) - Realtime framerate interpolation for video to produce smooth, fluid and clear motion.
+- [VLC](https://www.videolan.org/vlc/) - Simple and reliable multimedia player, all codecs included.
+- [ZoomPlayer](https://zoomplayer.com/) - Highly customizable video player. Integrated codec management, media library mode with automated scraping.
+
+#### Encoding & Processing
+
 - [FFmpeg](https://ffmpeg.org/download.html) - Command-line utility for converting and processing video and audio.
 - [HandBrake](https://handbrake.fr/) - Video transcoding.
 - [lossless-cut](https://github.com/mifi/lossless-cut) - Lossless trimming and cutting of video and audio files.
@@ -80,6 +88,3 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) - Display technical data for video and audio files.
 - [MKVToolNix](https://mkvtoolnix.download/) - Set of tools to create, alter and inspect Matroska (MKV) files.
 - [OBS Studio](https://obsproject.com/) - Screen capture and live streaming.
-- [SVP](https://www.svp-team.com/get/) - Realtime framerate interpolation for video to produce smooth, fluid and clear motion.
-- [VLC](https://www.videolan.org/vlc/) - Simple and reliable multimedia player, all codecs included.
-- [ZoomPlayer](https://zoomplayer.com/) - Highly customizable video player. Integrated codec management, media library mode with automated scraping.
