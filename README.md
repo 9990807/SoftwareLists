@@ -1,6 +1,6 @@
 # Lobo's Windows Software List
 
-This repo is a collection of Windows applications and tools that I use regularly.
+This repo is a curated collection of Windows applications and tools that I use regularly.
 
 ## Table of Contents
 
@@ -28,6 +28,7 @@ This repo is a collection of Windows applications and tools that I use regularly
 
 ### Audio
 
+- [SoundSwitch](https://github.com/Belphemur/SoundSwitch) - Switch playback and recording devices with hotkeys.
 - [Winamp](http://winamp.com/) - Classic audio player since 1997, compact, versatile, modular.
 
 ### Download Tools
