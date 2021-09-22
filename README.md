@@ -44,6 +44,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 ### File Manager
 
 - [7-Zip](https://www.7-zip.org/download.html) - Preferred compressed files utility.
+- [ImageUSB](https://www.osforensics.com/tools/write-usb-images.html) - Create and write images from and to USB devices.
 
 ### Graphics
 
@@ -54,8 +55,13 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU, motherboard and memory information.
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - HDD/SSD S.M.A.R.T. information.
 - [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU information.
+- [HWiNFO](https://www.hwinfo.com/download/) - In-depth hardware information and real-time monitoring.
 
 ### Video
 
 - [FFmpeg](https://ffmpeg.org/download.html) - Command-line utility for converting and processing video and audio.
+- [HandBrake](https://handbrake.fr/) - Video transcoding.
+- [MediaInfo](https://mediaarea.net/en/MediaInfo) - Display technical data for video and audio files.
+- [SVP](https://www.svp-team.com/get/) - Realtime framerate interpolation for video to produce very smooth, fluid and clear motion.
+- [VLC](https://www.videolan.org/vlc/) - Simple and reliable multimedia player, all codecs included.
 - [ZoomPlayer](https://zoomplayer.com/) - Highly customizable video player. Integrated codec management, media library mode with automated scraping.
