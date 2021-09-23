@@ -60,6 +60,11 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) - Image browser, converter and editor.
 - [Paint.NET](https://www.getpaint.net/download.html) - Simple image editor with layers, filters and plugins.
 
+### Security
+
+- [Acrylic DNS Proxy](https://mayakron.altervista.org/support/acrylic/Home.htm) - Local DNS proxy with caching, custom HOSTS file that supports wildcards and regular expressions.
+- [KeePassXC](https://keepassxc.org/) - Local password manager.
+
 ### System Utilities
 
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU, motherboard and memory information.
@@ -69,7 +74,6 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [NirLauncher ](https://launcher.nirsoft.net/) - Set of utilities for password recovery, system monitoring and advanced configuration.
 - [Ventoy](https://www.ventoy.net/en/download.html) - Tool to create bootable USB drives for ISO/WIM/IMG/VHD(x)/EFI files.
 - [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) - Various utilities to manage, troubleshoot and diagnose Windows systems and applications.
-
 
 ### Video
 
