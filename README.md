@@ -10,7 +10,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Download Tools](#download-tools)
 - [Editors](#editors)
 - [Emulation](#emulation)
-- [File Manager](#file-manager)
+- [File Management](#file-management)
 - [Graphics](#graphics)
 - [Productivity](#productivity)
 - [Security](#security)
@@ -50,7 +50,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [DOSBox](https://www.dosbox.com/download.php?main=1) - Emulator that recreates a complete MS-DOS compatible environment.
 
-### File Manager
+### File Management
 
 - [7-Zip](https://www.7-zip.org/download.html) - Preferred compressed files utility.
 - [ImageUSB](https://www.osforensics.com/tools/write-usb-images.html) - Create and write images from and to USB devices.
