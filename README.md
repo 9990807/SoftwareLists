@@ -6,7 +6,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [Must-have](#must-have)
 - [Audio](#audio)
-- [Data Backup and Recovery](#data-backup-and-recovery)
+- [Backup and Recovery](#data-backup-and-recovery)
 - [Download Tools](#download-tools)
 - [Editors](#editors)
 - [Emulation](#emulation)
@@ -32,7 +32,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [SoundSwitch](https://github.com/Belphemur/SoundSwitch) - Switch playback and recording devices with hotkeys.
 - [Winamp](http://winamp.com/) - Classic audio player since 1997, compact, versatile, modular.
 
-### Data Backup and Recovery
+### Backup and Recovery
 
 - [Veeam Agent](https://www.veeam.com/windows-endpoint-server-backup-free.html) - Simple solution for backing up Windows-based desktops, laptops and tablets.
 
@@ -60,6 +60,10 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) - Image browser, converter and editor.
 - [Paint.NET](https://www.getpaint.net/download.html) - Simple image editor with layers, filters and plugins.
+
+### Productivity
+
+- [Wox](http://www.wox.one/) - Text based launcher with plugin and theme support.
 
 ### Security
 
