@@ -6,7 +6,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [Must-have](#must-have)
 - [Audio](#audio)
-- [Backup and Recovery](#data-backup-and-recovery)
+- [Backup and Recovery](#backup-and-recovery)
 - [Download Tools](#download-tools)
 - [Editors](#editors)
 - [Emulation](#emulation)
