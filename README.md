@@ -25,6 +25,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Classic Shell](http://classicshell.net/) - Start menu enhancement.
 - [Directory Opus](https://www.gpsoft.com.au/) - Complete replacement for Windows Explorer. Fully customizable, scripting, filters.
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly.
+- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control Android devices connected on USB or over TCP/IP. No root required.
 
 ### Audio
 
@@ -38,7 +39,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Download Tools
 
-- [Aria2](https://aria2.github.io/) - Command-line download utility, supports multi-connection downloads and BitTorrrent protocol.
+- [Aria2c](https://aria2.github.io/) - Command-line download utility, supports multi-connection downloads and BitTorrrent protocol.
 - [qBittorrent](https://www.qbittorrent.org/download.php) - BitTorrent client, open-source µTorrent replacement.
 
 ### Editors
@@ -53,7 +54,9 @@ This repo is a curated collection of Windows applications and tools that I use r
 ### File Management
 
 - [7-Zip](https://www.7-zip.org/download.html) - Preferred compressed files utility.
+- [dupeGuru](https://github.com/arsenetar/dupeguru/) - Find duplicate files.
 - [ImageUSB](https://www.osforensics.com/tools/write-usb-images.html) - Create and write images from and to USB devices.
+- [ImgBurn](https://www.imgburn.com/) - Lightweight and configurable CD / DVD / HD DVD / Blu-ray burning application.
 - [OpenHashTab](https://github.com/namazso/OpenHashTab) - Shell extension for calculating and checking file hashes from file properties.
 
 ### Graphics
@@ -90,6 +93,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 #### Players & Plugins
 
+- [madVR](http://www.madvr.com/) - DirectShow video renderer, high quality algorithms for scaling, sharpening, debanding, dithering etc.
 - [SVP](https://www.svp-team.com/get/) - Realtime framerate interpolation for video to produce smooth, fluid and clear motion.
 - [VLC](https://www.videolan.org/vlc/) - Simple and reliable multimedia player, all codecs included.
 - [ZoomPlayer](https://zoomplayer.com/) - Highly customizable video player. Integrated codec management, media library mode with automated scraping.
