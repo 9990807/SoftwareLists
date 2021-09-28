@@ -58,6 +58,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [ImageUSB](https://www.osforensics.com/tools/write-usb-images.html) - Create and write images from and to USB devices.
 - [ImgBurn](https://www.imgburn.com/) - Lightweight and configurable CD / DVD / HD DVD / Blu-ray burning application.
 - [OpenHashTab](https://github.com/namazso/OpenHashTab) - Shell extension for calculating and checking file hashes from file properties.
+- [UltraISO](https://www.ultraiso.com/download.html) - ISO CD/DVD image file creating, editing, emulating tool.
 
 ### Graphics
 
