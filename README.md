@@ -74,6 +74,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 #### Info & Diagnostics
 
+- [ATTO Disk Benchmark](https://www.atto.com/disk-benchmark/) - Test storage controllers, host adapters, hard drives or SSD drives, custom transfer size and queue depths.
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU, motherboard and memory information.
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - HDD/SSD S.M.A.R.T. information.
 - [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU information.
