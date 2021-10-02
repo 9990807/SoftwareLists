@@ -7,6 +7,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Must-have](#must-have)
 - [Audio](#audio)
 - [Backup and Recovery](#backup-and-recovery)
+- [Browser](#browser)
 - [Download Tools](#download-tools)
 - [Editors](#editors)
 - [Emulation](#emulation)
@@ -36,6 +37,20 @@ This repo is a curated collection of Windows applications and tools that I use r
 ### Backup and Recovery
 
 - [Veeam Agent](https://www.veeam.com/windows-endpoint-server-backup-free.html) - Simple solution for backing up Windows-based desktops, laptops and tablets.
+
+### Browser
+
+- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - 
+- [Ungoogled Chromium](https://chromium.woolyss.com/) - Chromium without dependency on Google web services and tweaks to enhance privacy.
+
+#### Addons
+
+- [Chromium web store](https://github.com/NeverDecaf/chromium-web-store) - (For ungoogled chromium) Allows installing extensions directly from chrome web store and check for updates.
+- [Context Menu Search](https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga) - Use the right-click menu to search for selected text in different search engines.
+- [Dark Reader](https://darkreader.org/) - Dark mode for the web.
+- [New Tab Redirect](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna) - Allows a user to provide the URL of the page that loads in a new tab. You can use local files.
+- [SponsorBlock](https://sponsor.ajay.app/) - Crowdsourced API for skipping sponsor segments in YouTube videos.
+- [uBlock Origin](https://ublockorigin.com/) - Free, open-source ad content blocker.
 
 ### Download Tools
 
