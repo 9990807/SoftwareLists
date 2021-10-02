@@ -40,8 +40,8 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Browser
 
-- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - 
-- [Ungoogled Chromium](https://chromium.woolyss.com/) - Chromium without dependency on Google web services and tweaks to enhance privacy.
+- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - Free and open-source web browser.
+- [Ungoogled Chromium](https://chromium.woolyss.com/) - Chromium without dependencies on Google web services and tweaks to enhance privacy.
 
 #### Addons
 
