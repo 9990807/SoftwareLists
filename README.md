@@ -79,6 +79,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) - Image browser, converter and editor.
 - [Paint.NET](https://www.getpaint.net/download.html) - Simple image editor with layers, filters and plugins.
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - Record a selected area of your screen and save it to GIF or video.
 
 ### Productivity
 
