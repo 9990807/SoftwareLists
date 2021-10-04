@@ -92,7 +92,16 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### System Utilities
 
-#### Info & Diagnostics
+#### Administration & Tweaks
+
+- [Fan Control](https://github.com/Rem0o/FanControl.Releases) - Highly customizable fan controlling software.
+- [KiTTY](https://www.fosshub.com/KiTTY.html) - A fork of PuTTY with several QoL improvements.
+- [NirLauncher ](https://launcher.nirsoft.net/) - Set of utilities for password recovery, system monitoring and advanced configuration.
+- [TigerVNC](https://tigervnc.org/) - Client/server application that allows users to launch and interact with graphical applications on remote machines.
+- [Ventoy](https://www.ventoy.net/en/download.html) - Tool to create bootable USB drives for ISO/WIM/IMG/VHD(x)/EFI files.
+- [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) - Various utilities to manage, troubleshoot and diagnose Windows systems and applications.
+
+#### Info, Benchmarks & Diagnostics
 
 - [ATTO Disk Benchmark](https://www.atto.com/disk-benchmark/) - Test storage controllers, host adapters, hard drives or SSD drives, custom transfer size and queue depths.
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU, motherboard and memory information.
@@ -100,11 +109,6 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU information.
 - [HWiNFO](https://www.hwinfo.com/download/) - In-depth hardware information and real-time monitoring.
 
-#### Misc Tools
-
-- [NirLauncher ](https://launcher.nirsoft.net/) - Set of utilities for password recovery, system monitoring and advanced configuration.
-- [Ventoy](https://www.ventoy.net/en/download.html) - Tool to create bootable USB drives for ISO/WIM/IMG/VHD(x)/EFI files.
-- [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) - Various utilities to manage, troubleshoot and diagnose Windows systems and applications.
 
 ### Video
 
