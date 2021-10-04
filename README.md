@@ -20,6 +20,13 @@ This repo is a curated collection of Windows applications and tools that I use r
 ***********
 
 - [Games](#games)
+- [Multi-system Emulators](#multi-system-emulators)
+- [Classic Computers](#classic-computers)
+- [id Software](#id-software)
+- [Microsoft](#microsoft)
+- [Nintendo](#nintendo)
+- [Sega](#sega)
+- [Sony](#sony)
 
 ***********
 
@@ -156,7 +163,6 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom) - Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s.
 - [GZDoom](https://www.zdoom.org/downloads) - Enhanced ports of the Doom engine with modern features.
-
 
 #### Quake
 
