@@ -82,19 +82,41 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [MAMEUI](http://www.mameui.info/) - GUI version of MAME.
 - [RetroArch](https://www.retroarch.com/) - A frontend for emulators.
 
-#### Emulators
-
-##### Nintendo
+#### Nintendo
 
 - [bsnes](https://github.com/bsnes-emu/bsnes) - Super Nintendo emulator.
-- [DeSmuME](http://desmume.org/) - Nintendo DS emulator.
+- [Citra](https://citra-emu.org/) - Nintendo 3DS emulator.
 - [Dolphin](https://dolphin-emu.org/) - Nintendo GameCube & Wii emulator.
-- [DOSBox](https://www.dosbox.com/download.php?main=1) - Emulator that recreates a complete MS-DOS compatible environment.
+- [melonDS](http://melonds.kuribo64.net/) - Nintendo DS emulator.
+- [Project64](https://www.pj64-emu.com/) - Nintendo 64 emulator.
+- [Ryujinx](https://ryujinx.org/) - Nintendo Switch emulator.
+- [SameBoy](https://sameboy.github.io/) - Nintendo Game Boy / Color emulator.
+- [yuzu](https://yuzu-emu.org/) - Nintendo Switch emulator.
+
+#### Microsoft
+
+- [xenia](https://xenia.jp/) - Xbox 360 emulator.
+- [xemu](https://xemu.app/) - Xbox emulator.
+
+#### Classic Computers
+
+- [86Box](https://86box.net/) - IBM PC emulator.
+- [DOSBox](https://www.dosbox.com/download.php?main=1) - MS-DOS emulator.
+- [PCem](https://www.pcem-emulator.co.uk/) - IBM PC emulator.
+- [ScummVM](https://www.scummvm.org/) - Executable replacement for classic graphical adventure and role-playing games.
+- [VICE](https://vice-emu.sourceforge.io/) - Commodore 64/128 emulator.
+
+#### Sega
+
+- [Gens](http://www.gens.me/) - Sega Mega Drive emulator.
+- [Redream](https://redream.io/) - Sega Dreamcast emulator.
+
+#### Sony
+
 - [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - Sony PlayStation emulator.
 - [PCSX2](https://pcsx2.net/) - Sony PlayStation 2 emulator.
 - [PPSSPP](http://ppsspp.org/) - Sony PSP emulator.
 - [RPCS3](https://rpcs3.net/) - Sony PlayStation 3 emulator.
-- [VICE](https://vice-emu.sourceforge.io/) - Commodore 64/128 emulator.
 
 ### Graphics
 
