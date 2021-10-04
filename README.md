@@ -16,7 +16,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Security](#security)
 - [System Utilities](#system-utilities)
 - [Video](#video)
-
+***********
 - [Games](#games)
 
 ***********
