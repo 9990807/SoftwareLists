@@ -16,7 +16,9 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Security](#security)
 - [System Utilities](#system-utilities)
 - [Video](#video)
+
 ***********
+
 - [Games](#games)
 
 ***********
@@ -130,16 +132,16 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ***********
 
-### Games
+# Games
 
-#### Multi-system Emulators
+### Multi-system Emulators
 
 - [FinalBurn Neo](https://github.com/finalburnneo/FBNeo) - Emulator for Arcade Games & Select Consoles.
 - [Ludo](https://ludo.libretro.com/) - Minimalist frontend for emulators.
 - [MAMEUI](http://www.mameui.info/) - GUI version of MAME.
 - [RetroArch](https://www.retroarch.com/) - A frontend for emulators.
 
-#### Classic Computers
+### Classic Computers
 
 - [86Box](https://86box.net/) - IBM PC emulator.
 - [DOSBox](https://www.dosbox.com/download.php?main=1) - MS-DOS emulator.
@@ -148,12 +150,22 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [ScummVM](https://www.scummvm.org/) - Executable replacement for classic graphical adventure and role-playing games.
 - [VICE](https://vice-emu.sourceforge.io/) - Commodore 64/128 emulator.
 
-#### Microsoft
+### id Software
+
+#### Doom
+
+- [vkQuake](https://github.com/Novum/vkQuake) - Port of Quake using Vulkan for rendering. Based on QuakeSpasm and QuakeSpasm-Spiked.
+
+#### Quake
+
+- [GZDoom](https://www.zdoom.org/downloads) - Enhanced ports of the Doom engine with modern features.
+
+### Microsoft
 
 - [xenia](https://xenia.jp/) - Xbox 360 emulator.
 - [xemu](https://xemu.app/) - Xbox emulator.
 
-#### Nintendo
+### Nintendo
 
 - [bsnes](https://github.com/bsnes-emu/bsnes) - Super Nintendo emulator.
 - [Cem](https://cemu.info/) - Wii U emulator.
@@ -166,12 +178,12 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [SameBoy](https://sameboy.github.io/) - Game Boy / Game Boy Color emulator.
 - [yuzu](https://yuzu-emu.org/) - Switch emulator.
 
-#### Sega
+### Sega
 
 - [Gens](http://www.gens.me/) - Mega Drive emulator.
 - [Redream](https://redream.io/) - Dreamcast emulator.
 
-#### Sony
+### Sony
 
 - [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PlayStation emulator.
 - [PCSX2](https://pcsx2.net/) - PlayStation 2 emulator.
