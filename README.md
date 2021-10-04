@@ -154,11 +154,13 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 #### Doom
 
-- [vkQuake](https://github.com/Novum/vkQuake) - Port of Quake using Vulkan for rendering. Based on QuakeSpasm and QuakeSpasm-Spiked.
+- [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom) - Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s.
+- [GZDoom](https://www.zdoom.org/downloads) - Enhanced ports of the Doom engine with modern features.
+
 
 #### Quake
 
-- [GZDoom](https://www.zdoom.org/downloads) - Enhanced ports of the Doom engine with modern features.
+- [vkQuake](https://github.com/Novum/vkQuake) - Port of Quake using Vulkan for rendering. Based on QuakeSpasm and QuakeSpasm-Spiked.
 
 ### Microsoft
 
