@@ -10,7 +10,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Browser](#browser)
 - [Download Tools](#download-tools)
 - [Editors](#editors)
-- [Emulation](#emulation)
+- [Gaming](#gaming)
 - [File Management](#file-management)
 - [Graphics](#graphics)
 - [Productivity](#productivity)
@@ -56,15 +56,13 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [Aria2c](https://aria2.github.io/) - Command-line download utility, supports multi-connection downloads and BitTorrrent protocol.
 - [qBittorrent](https://www.qbittorrent.org/download.php) - BitTorrent client, open-source µTorrent replacement.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with new features and patches.
 
 ### Editors
 
 - [MetaPad](https://liquidninja.com/metapad/download.html) - Simple text editor to replace Microsoft Notepad.
 - [Notepad++](https://notepad-plus-plus.org/downloads/) - Source code editor with tabs, syntax highlighting and auto-completion.
 
-### Emulation
-
-- [DOSBox](https://www.dosbox.com/download.php?main=1) - Emulator that recreates a complete MS-DOS compatible environment.
 
 ### File Management
 
@@ -73,7 +71,30 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [ImageUSB](https://www.osforensics.com/tools/write-usb-images.html) - Create and write images from and to USB devices.
 - [ImgBurn](https://www.imgburn.com/) - Lightweight and configurable CD / DVD / HD DVD / Blu-ray burning application.
 - [OpenHashTab](https://github.com/namazso/OpenHashTab) - Shell extension for calculating and checking file hashes from file properties.
+- [TreeSize Free](https://www.jam-software.com/treesize_free) - Scan drives/folders quickly and visualize the relative size of the space used per file/folder.
 - [UltraISO](https://www.ultraiso.com/download.html) - ISO CD/DVD image file creating, editing, emulating tool.
+
+### Gaming
+
+#### Multi-system Emulators
+
+- [FinalBurn Neo](https://github.com/finalburnneo/FBNeo) - Emulator for Arcade Games & Select Consoles.
+- [MAMEUI](http://www.mameui.info/) - GUI version of MAME.
+- [RetroArch](https://www.retroarch.com/) - A frontend for emulators.
+
+#### Emulators
+
+##### Nintendo
+
+- [bsnes](https://github.com/bsnes-emu/bsnes) - Super Nintendo emulator.
+- [DeSmuME](http://desmume.org/) - Nintendo DS emulator.
+- [Dolphin](https://dolphin-emu.org/) - Nintendo GameCube & Wii emulator.
+- [DOSBox](https://www.dosbox.com/download.php?main=1) - Emulator that recreates a complete MS-DOS compatible environment.
+- [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - Sony PlayStation emulator.
+- [PCSX2](https://pcsx2.net/) - Sony PlayStation 2 emulator.
+- [PPSSPP](http://ppsspp.org/) - Sony PSP emulator.
+- [RPCS3](https://rpcs3.net/) - Sony PlayStation 3 emulator.
+- [VICE](https://vice-emu.sourceforge.io/) - Commodore 64/128 emulator.
 
 ### Graphics
 
@@ -108,7 +129,6 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - HDD/SSD S.M.A.R.T. information.
 - [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU information.
 - [HWiNFO](https://www.hwinfo.com/download/) - In-depth hardware information and real-time monitoring.
-
 
 ### Video
 
