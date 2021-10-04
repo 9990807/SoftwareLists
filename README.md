@@ -10,13 +10,14 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Browser](#browser)
 - [Download Tools](#download-tools)
 - [Editors](#editors)
-- [Gaming](#gaming)
 - [File Management](#file-management)
 - [Graphics](#graphics)
 - [Productivity](#productivity)
 - [Security](#security)
 - [System Utilities](#system-utilities)
 - [Video](#video)
+
+- [Games](#games)
 
 ***********
 
@@ -74,54 +75,6 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [TreeSize Free](https://www.jam-software.com/treesize_free) - Scan drives/folders quickly and visualize the relative size of the space used per file/folder.
 - [UltraISO](https://www.ultraiso.com/download.html) - ISO CD/DVD image file creating, editing, emulating tool.
 
-### Gaming
-
-#### Multi-system Emulators
-
-- [FinalBurn Neo](https://github.com/finalburnneo/FBNeo) - Emulator for Arcade Games & Select Consoles.
-- [Ludo](https://ludo.libretro.com/) - Minimalist frontend for emulators.
-- [MAMEUI](http://www.mameui.info/) - GUI version of MAME.
-- [RetroArch](https://www.retroarch.com/) - A frontend for emulators.
-
-#### Classic Computers
-
-- [86Box](https://86box.net/) - IBM PC emulator.
-- [DOSBox](https://www.dosbox.com/download.php?main=1) - MS-DOS emulator.
-- [DOSBox Pure](https://github.com/schellingb/dosbox-pure) - Fork of DOSBox made for simplicity and ease of use.
-- [PCem](https://www.pcem-emulator.co.uk/) - IBM PC emulator.
-- [ScummVM](https://www.scummvm.org/) - Executable replacement for classic graphical adventure and role-playing games.
-- [VICE](https://vice-emu.sourceforge.io/) - Commodore 64/128 emulator.
-
-#### Microsoft
-
-- [xenia](https://xenia.jp/) - Xbox 360 emulator.
-- [xemu](https://xemu.app/) - Xbox emulator.
-
-#### Nintendo
-
-- [bsnes](https://github.com/bsnes-emu/bsnes) - Super Nintendo emulator.
-- [Cem](https://cemu.info/) - Wii U emulator.
-- [Citra](https://citra-emu.org/) - 3DS emulator.
-- [Dolphin](https://dolphin-emu.org/) - GameCube & Wii emulator.
-- [melonDS](http://melonds.kuribo64.net/) - DS emulator.
-- [mGBA](https://mgba.io/) - Game Boy Advance emulator.
-- [Project64](https://www.pj64-emu.com/) - Nintendo 64 emulator.
-- [Ryujinx](https://ryujinx.org/) - Switch emulator.
-- [SameBoy](https://sameboy.github.io/) - Game Boy / Game Boy Color emulator.
-- [yuzu](https://yuzu-emu.org/) - Switch emulator.
-
-#### Sega
-
-- [Gens](http://www.gens.me/) - Mega Drive emulator.
-- [Redream](https://redream.io/) - Dreamcast emulator.
-
-#### Sony
-
-- [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PlayStation emulator.
-- [PCSX2](https://pcsx2.net/) - PlayStation 2 emulator.
-- [PPSSPP](http://ppsspp.org/) - PSP emulator.
-- [RPCS3](https://rpcs3.net/) - PlayStation 3 emulator.
-
 ### Graphics
 
 - [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) - Image browser, converter and editor.
@@ -174,3 +127,53 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) - Display technical data for video and audio files.
 - [MKVToolNix](https://mkvtoolnix.download/) - Set of tools to create, alter and inspect Matroska (MKV) files.
 - [OBS Studio](https://obsproject.com/) - Screen capture and live streaming.
+
+***********
+
+### Games
+
+#### Multi-system Emulators
+
+- [FinalBurn Neo](https://github.com/finalburnneo/FBNeo) - Emulator for Arcade Games & Select Consoles.
+- [Ludo](https://ludo.libretro.com/) - Minimalist frontend for emulators.
+- [MAMEUI](http://www.mameui.info/) - GUI version of MAME.
+- [RetroArch](https://www.retroarch.com/) - A frontend for emulators.
+
+#### Classic Computers
+
+- [86Box](https://86box.net/) - IBM PC emulator.
+- [DOSBox](https://www.dosbox.com/download.php?main=1) - MS-DOS emulator.
+- [DOSBox Pure](https://github.com/schellingb/dosbox-pure) - Fork of DOSBox made for simplicity and ease of use.
+- [PCem](https://www.pcem-emulator.co.uk/) - IBM PC emulator.
+- [ScummVM](https://www.scummvm.org/) - Executable replacement for classic graphical adventure and role-playing games.
+- [VICE](https://vice-emu.sourceforge.io/) - Commodore 64/128 emulator.
+
+#### Microsoft
+
+- [xenia](https://xenia.jp/) - Xbox 360 emulator.
+- [xemu](https://xemu.app/) - Xbox emulator.
+
+#### Nintendo
+
+- [bsnes](https://github.com/bsnes-emu/bsnes) - Super Nintendo emulator.
+- [Cem](https://cemu.info/) - Wii U emulator.
+- [Citra](https://citra-emu.org/) - 3DS emulator.
+- [Dolphin](https://dolphin-emu.org/) - GameCube & Wii emulator.
+- [melonDS](http://melonds.kuribo64.net/) - DS emulator.
+- [mGBA](https://mgba.io/) - Game Boy Advance emulator.
+- [Project64](https://www.pj64-emu.com/) - Nintendo 64 emulator.
+- [Ryujinx](https://ryujinx.org/) - Switch emulator.
+- [SameBoy](https://sameboy.github.io/) - Game Boy / Game Boy Color emulator.
+- [yuzu](https://yuzu-emu.org/) - Switch emulator.
+
+#### Sega
+
+- [Gens](http://www.gens.me/) - Mega Drive emulator.
+- [Redream](https://redream.io/) - Dreamcast emulator.
+
+#### Sony
+
+- [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PlayStation emulator.
+- [PCSX2](https://pcsx2.net/) - PlayStation 2 emulator.
+- [PPSSPP](http://ppsspp.org/) - PSP emulator.
+- [RPCS3](https://rpcs3.net/) - PlayStation 3 emulator.
