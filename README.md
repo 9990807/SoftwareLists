@@ -17,6 +17,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [System Utilities](#system-utilities)
 - [Video](#video)
 
+****
 
 - [Games](#games)
 - [Multi-system Emulators](#multi-system-emulators)
