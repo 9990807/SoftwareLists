@@ -141,7 +141,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Multi-system Emulators
 
-- [FinalBurn Neo](https://github.com/finalburnneo/FBNeo) - Emulator for Arcade Games & Select Consoles.
+- [FinalBurn Neo](https://github.com/finalburnneo/FBNeo) - Emulator for arcade games & select consoles.
 - [higan](https://github.com/higan-emu/higan) - Multi-system emulator with focus on accuracy.
 - [Ludo](https://ludo.libretro.com/) - Minimalist frontend for emulators.
 - [MAMEUI](http://www.mameui.info/) - GUI version of MAME.
