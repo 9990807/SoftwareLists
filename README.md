@@ -165,6 +165,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 #### Quake
 
+- [DarkPlaces](https://icculus.org/twilight/darkplaces/) - Port of Quake with improved graphics and image quality.
 - [vkQuake](https://github.com/Novum/vkQuake) - Port of Quake using Vulkan for rendering. Based on QuakeSpasm and QuakeSpasm-Spiked.
 
 ### Microsoft
