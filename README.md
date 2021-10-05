@@ -175,6 +175,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 ### Nintendo
 
 - [bsnes](https://github.com/bsnes-emu/bsnes) - Super Nintendo emulator.
+- [bsnes-hd](https://github.com/DerKoun/bsnes-hd) - A fork of bsnes with HD video features.
 - [Cemu](https://cemu.info/) - Wii U emulator.
 - [Citra](https://citra-emu.org/) - 3DS emulator.
 - [Dolphin](https://dolphin-emu.org/) - GameCube & Wii emulator.
