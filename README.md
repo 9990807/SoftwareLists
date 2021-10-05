@@ -2,7 +2,7 @@
 
 This repo is a curated collection of Windows applications and tools that I use regularly.
 
-## Table of Contents
+## Software
 
 - [Must-have](#must-have)
 - [Audio](#audio)
@@ -17,9 +17,8 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [System Utilities](#system-utilities)
 - [Video](#video)
 
-****
+## Gaming
 
-- [Games](#games)
 - [Multi-system Emulators](#multi-system-emulators)
 - [Classic Computers](#classic-computers)
 - [id Software](#id-software)
@@ -139,7 +138,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ***********
 
-# Games
+# Gaming
 
 ### Multi-system Emulators
 
@@ -176,7 +175,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 ### Nintendo
 
 - [bsnes](https://github.com/bsnes-emu/bsnes) - Super Nintendo emulator.
-- [Cem](https://cemu.info/) - Wii U emulator.
+- [Cemu](https://cemu.info/) - Wii U emulator.
 - [Citra](https://citra-emu.org/) - 3DS emulator.
 - [Dolphin](https://dolphin-emu.org/) - GameCube & Wii emulator.
 - [melonDS](http://melonds.kuribo64.net/) - DS emulator.
