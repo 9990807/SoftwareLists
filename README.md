@@ -32,10 +32,8 @@ This repo is a curated collection of Windows applications and tools that I use r
 ### Must-have
 
 - [Chocolatey](https://chocolatey.org/install) - Command-line Linux-like software package manager.
-- [Classic Shell](http://classicshell.net/) - Start menu enhancement.
 - [Directory Opus](https://www.gpsoft.com.au/) - Complete replacement for Windows Explorer. Fully customizable, scripting, filters.
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly.
-- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control Android devices connected on USB or over TCP/IP. No root required.
 
 ### Audio
 
@@ -72,6 +70,11 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [MetaPad](https://liquidninja.com/metapad/download.html) - Simple text editor to replace Microsoft Notepad.
 - [Notepad++](https://notepad-plus-plus.org/downloads/) - Source code editor with tabs, syntax highlighting and auto-completion.
 
+### Enhancements
+
+- [Classic Shell](http://classicshell.net/) - Start menu enhancement.
+- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control Android devices connected on USB or over TCP/IP. No root required.
+- [Wox](http://www.wox.one/) - Text based launcher with plugin and theme support.
 
 ### File Management
 
@@ -88,10 +91,6 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) - Image browser, converter and editor.
 - [Paint.NET](https://www.getpaint.net/download.html) - Simple image editor with layers, filters and plugins.
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - Record a selected area of your screen and save it to GIF or video.
-
-### Productivity
-
-- [Wox](http://www.wox.one/) - Text based launcher with plugin and theme support.
 
 ### Security
 
