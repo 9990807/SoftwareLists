@@ -143,6 +143,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 ### Multi-system Emulators
 
 - [FinalBurn Neo](https://github.com/finalburnneo/FBNeo) - Emulator for Arcade Games & Select Consoles.
+- [higan](https://github.com/higan-emu/higan) - Multi-system emulator with focus on accuracy.
 - [Ludo](https://ludo.libretro.com/) - Minimalist frontend for emulators.
 - [MAMEUI](http://www.mameui.info/) - GUI version of MAME.
 - [RetroArch](https://www.retroarch.com/) - A frontend for emulators.
@@ -170,6 +171,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Microsoft
 
+- [Cxbx-Reloaded](https://cxbx-reloaded.co.uk/) - Xbox emulator.
 - [xenia](https://xenia.jp/) - Xbox 360 emulator.
 - [xemu](https://xemu.app/) - Xbox emulator.
 
@@ -178,9 +180,10 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [bsnes](https://github.com/bsnes-emu/bsnes) - Super Nintendo emulator.
 - [bsnes-hd](https://github.com/DerKoun/bsnes-hd) - A fork of bsnes with HD video features.
 - [Cemu](https://cemu.info/) - Wii U emulator.
-- [Citra](https://citra-emu.org/) - 3DS emulator.
+- [Citra](https://citra-emu.org/) - Nintendo 3DS emulator.
+- [DeSmuME](https://desmume.org/) - Nintendo DS emulator.
 - [Dolphin](https://dolphin-emu.org/) - GameCube & Wii emulator.
-- [melonDS](http://melonds.kuribo64.net/) - DS emulator.
+- [melonDS](http://melonds.kuribo64.net/) - Nintendo DS emulator.
 - [mGBA](https://mgba.io/) - Game Boy Advance emulator.
 - [Project64](https://www.pj64-emu.com/) - Nintendo 64 emulator.
 - [Ryujinx](https://ryujinx.org/) - Switch emulator.
