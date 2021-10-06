@@ -146,7 +146,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [higan](https://github.com/higan-emu/higan) - Multi-system emulator with focus on accuracy.
 - [Ludo](https://ludo.libretro.com/) - Minimalist frontend for emulators.
 - [MAMEUI](http://www.mameui.info/) - GUI version of MAME.
-- [Mednafen](https://mednafen.github.io/) - Multi-system emulator with ave states and real-time game rewinding.
+- [Mednafen](https://mednafen.github.io/) - Multi-system emulator with save states and real-time game rewinding.
 - [RetroArch](https://www.retroarch.com/) - A frontend for emulators.
 
 ### Classic Computers
