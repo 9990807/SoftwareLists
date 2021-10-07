@@ -147,6 +147,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Ludo](https://ludo.libretro.com/) - Minimalist frontend for emulators.
 - [MAMEUI](http://www.mameui.info/) - GUI version of MAME.
 - [Mednafen](https://mednafen.github.io/) - Multi-system emulator with save states and real-time game rewinding.
+- [Mednaffe](https://github.com/AmatCoder/mednaffe) - GUI for Mednafen.
 - [RetroArch](https://www.retroarch.com/) - A frontend for emulators.
 
 ### Classic Computers
