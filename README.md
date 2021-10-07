@@ -187,7 +187,11 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [DeSmuME](https://desmume.org/) - Nintendo DS emulator.
 - [Dolphin](https://dolphin-emu.org/) - GameCube & Wii emulator.
 - [melonDS](http://melonds.kuribo64.net/) - Nintendo DS emulator.
+- [m64p](https://m64p.github.io/) - Nintendo 64 emulator.
 - [mGBA](https://mgba.io/) - Game Boy Advance emulator.
+- [Mesen](https://github.com/SourMesen/Mesen/) - High-accuracy NES emulator.
+- [Mesen-S](https://github.com/SourMesen/Mesen-S/) - High-accuracy SNES, Game Boy and Game Boy Color emulator.
+- [Nestopia UE](https://sourceforge.net/projects/nestopiaue/files/) - NES/Famicom emulator.
 - [Project64](https://www.pj64-emu.com/) - Nintendo 64 emulator.
 - [Ryujinx](https://ryujinx.org/) - Switch emulator.
 - [SameBoy](https://sameboy.github.io/) - Game Boy / Game Boy Color emulator.
