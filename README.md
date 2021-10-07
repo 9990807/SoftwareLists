@@ -149,6 +149,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Mednafen](https://mednafen.github.io/) - Multi-system emulator with save states and real-time game rewinding.
 - [Mednaffe](https://github.com/AmatCoder/mednaffe) - GUI for Mednafen.
 - [RetroArch](https://www.retroarch.com/) - A frontend for emulators.
+- [TeknoParrot](https://teknoparrot.com/) - Compatibility layer to run games originally made for Windows-based arcade systems.
 
 ### Classic Computers
 
