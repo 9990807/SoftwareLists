@@ -195,6 +195,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Sega
 
+- [Flycast](https://flyinghead.github.io/flycast-builds/) - Dreamcast emulator.
 - [Gens](http://www.gens.me/) - Mega Drive emulator.
 - [Redream](https://redream.io/) - Dreamcast emulator.
 
