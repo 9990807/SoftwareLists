@@ -205,18 +205,18 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Sony
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ps1.gif" width="32" alt="PlayStation">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ps1.gif" width="32" alt="PlayStation">
 
 - [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PlayStation emulator.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ps2.gif" width="32" alt="PlayStation 2">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ps2.gif" width="32" alt="PlayStation 2">
 
 - [PCSX2](https://pcsx2.net/) - PlayStation 2 emulator.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/psp.gif" width="32" alt="PlayStation Portable">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/psp.gif" width="32" alt="PlayStation Portable">
 
 - [PPSSPP](http://ppsspp.org/) - PSP emulator.
 
-<br><br>
+<br>
 
 - [RPCS3](https://rpcs3.net/) - PlayStation 3 emulator.
