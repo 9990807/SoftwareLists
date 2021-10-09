@@ -205,7 +205,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Sony
 
-# <img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ps1.gif" width="32" alt="PS1">
+#### <img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ps1.gif" width="32" alt="PS1">
 
 - [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PlayStation emulator.
 
