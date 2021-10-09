@@ -174,9 +174,14 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Microsoft
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/psp.gif" width="32" alt="Xbox">
+
 - [Cxbx-Reloaded](https://cxbx-reloaded.co.uk/) - Xbox emulator.
-- [xenia](https://xenia.jp/) - Xbox 360 emulator.
 - [xemu](https://xemu.app/) - Xbox emulator.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/xbox360.gif" width="32" alt="Xbox">
+
+- [xenia](https://xenia.jp/) - Xbox 360 emulator.
 
 ### Nintendo
 
@@ -205,15 +210,15 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Sony
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ps1.gif" width="32" alt="PlayStation">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ps1.gif" width="32" alt="PlayStation">
 
 - [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PlayStation emulator.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ps2.gif" width="32" alt="PlayStation 2">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ps2.gif" width="32" alt="PlayStation 2">
 
 - [PCSX2](https://pcsx2.net/) - PlayStation 2 emulator.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/psp.gif" width="32" alt="PlayStation Portable">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/psp.gif" width="32" alt="PlayStation Portable">
 
 - [PPSSPP](http://ppsspp.org/) - PSP emulator.
 
