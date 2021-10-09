@@ -179,13 +179,13 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Cxbx-Reloaded](https://cxbx-reloaded.co.uk/) - Xbox emulator.
 - [xemu](https://xemu.app/) - Xbox emulator.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/xbox360.gif" width="32" alt="Xbox 360">
+#### <img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/xbox360.gif" width="32" alt="Xbox 360">&nbsp;&nbsp;&nbsp;&nbsp;Xbox 360
 
 - [xenia](https://xenia.jp/) - Xbox 360 emulator.
 
 ### Nintendo
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/snintendo.gif" width="32" alt="Super Nintendo">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/snintendop.gif" width="32" alt="Super Nintendo pad">
+#### <img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/snintendo.gif" width="32" alt="Super Nintendo">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/snintendop.gif" width="32" alt="Super Nintendo pad">&nbsp;&nbsp;&nbsp;&nbsp;NES / Super Nintendo
 
 - [bsnes](https://github.com/bsnes-emu/bsnes) - Super Nintendo emulator.
 - [bsnes-hd](https://github.com/DerKoun/bsnes-hd) - A fork of bsnes with HD video features.
@@ -195,27 +195,28 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 <br>
 
+#### <img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/n64.gif" width="32" alt="Nintendo 64">&nbsp;&nbsp;&nbsp;&nbsp;Nintendo 64
+
 - [m64p](https://m64p.github.io/) - Nintendo 64 emulator.
-- [mGBA](https://mgba.io/) - Game Boy Advance emulator.
+- [Project64](https://www.pj64-emu.com/) - Nintendo 64 emulator.
 
 #### <img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ngc.gif" width="32" alt="GameCube">&nbsp;&nbsp;&nbsp;&nbsp;GameCube
 
-- [Project64](https://www.pj64-emu.com/) - Nintendo 64 emulator.
-
-&nbsp;&nbsp;&nbsp;&nbsp;GameCube<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ngc.gif" width="32" alt="GameCube">
-
 - [Dolphin](https://dolphin-emu.org/) - GameCube & Wii emulator.
 
-<br>
+#### Wii U
 
 - [Cemu](https://cemu.info/) - Wii U emulator.
 
-<br>
+#### Switch
 
 - [yuzu](https://yuzu-emu.org/) - Switch emulator.
 - [Ryujinx](https://ryujinx.org/) - Switch emulator.
 
+#### Nintendo portables
+
 - [SameBoy](https://sameboy.github.io/) - Game Boy / Game Boy Color emulator.
+- [mGBA](https://mgba.io/) - Game Boy Advance emulator.
 - [melonDS](http://melonds.kuribo64.net/) - Nintendo DS emulator.
 - [DeSmuME](https://desmume.org/) - Nintendo DS emulator.
 - [Citra](https://citra-emu.org/) - Nintendo 3DS emulator.
