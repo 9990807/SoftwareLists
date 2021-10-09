@@ -209,14 +209,13 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PlayStation emulator.
 
-<pre>      </pre><img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ps2.gif" width="32" alt="PlayStation 2">
+</pre><img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ps2.gif" width="32" alt="PlayStation 2">
 
 - [PCSX2](https://pcsx2.net/) - PlayStation 2 emulator.
 
-<pre>      </pre><img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/psp.gif" width="32" alt="PlayStation Portable">
+<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/psp.gif" width="32" alt="PlayStation Portable">
 
 - [PPSSPP](http://ppsspp.org/) - PSP emulator.
-
 
 
 - [RPCS3](https://rpcs3.net/) - PlayStation 3 emulator.
