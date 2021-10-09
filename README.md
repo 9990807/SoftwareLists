@@ -174,18 +174,18 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Microsoft
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/xbox.gif" width="32" alt="Xbox">
+#### Xbox
 
 - [Cxbx-Reloaded](https://cxbx-reloaded.co.uk/) - Xbox emulator.
 - [xemu](https://xemu.app/) - Xbox emulator.
 
-#### <img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/xbox360.gif" width="32" alt="Xbox 360">&nbsp;&nbsp;&nbsp;&nbsp;Xbox 360
+#### Xbox 360
 
 - [xenia](https://xenia.jp/) - Xbox 360 emulator.
 
 ### Nintendo
 
-#### <img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/snintendo.gif" width="32" alt="Super Nintendo">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/snintendop.gif" width="32" alt="Super Nintendo pad">&nbsp;&nbsp;&nbsp;&nbsp;NES / Super Nintendo
+#### NES / Super Nintendo
 
 - [bsnes](https://github.com/bsnes-emu/bsnes) - Super Nintendo emulator.
 - [bsnes-hd](https://github.com/DerKoun/bsnes-hd) - A fork of bsnes with HD video features.
@@ -193,14 +193,12 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Mesen-S](https://github.com/SourMesen/Mesen-S/) - High-accuracy SNES, Game Boy and Game Boy Color emulator.
 - [Nestopia UE](https://sourceforge.net/projects/nestopiaue/files/) - NES/Famicom emulator.
 
-<br>
-
-#### <img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/n64.gif" width="32" alt="Nintendo 64">&nbsp;&nbsp;&nbsp;&nbsp;Nintendo 64
+#### Nintendo 64
 
 - [m64p](https://m64p.github.io/) - Nintendo 64 emulator.
 - [Project64](https://www.pj64-emu.com/) - Nintendo 64 emulator.
 
-#### <img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ngc.gif" width="32" alt="GameCube">&nbsp;&nbsp;&nbsp;&nbsp;GameCube
+#### GameCube / Wii
 
 - [Dolphin](https://dolphin-emu.org/) - GameCube & Wii emulator.
 
@@ -223,24 +221,24 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Sega
 
-- [Flycast](https://flyinghead.github.io/flycast-builds/) - Dreamcast emulator.
 - [Gens](http://www.gens.me/) - Mega Drive emulator.
 - [Redream](https://redream.io/) - Dreamcast emulator.
+- [Flycast](https://flyinghead.github.io/flycast-builds/) - Dreamcast emulator.
 
 ### Sony
 
-#### <img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ps1.gif" width="32" alt="PlayStation">&nbsp;&nbsp;&nbsp;&nbsp;PlayStation
+#### PlayStation
 
-- [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PlayStation emulator.
+- [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux)
 
-#### <img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ps2.gif" width="32" alt="PlayStation 2">&nbsp;&nbsp;&nbsp;&nbsp;PlayStation 2
+#### PlayStation 2
 
-- [PCSX2](https://pcsx2.net/) - PlayStation 2 emulator.
+- [PCSX2](https://pcsx2.net/)
 
-<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/psp.gif" width="32" alt="PlayStation Portable">&nbsp;&nbsp;&nbsp;&nbsp;PlayStation Portable
+#### PlayStation Portable
 
-- [PPSSPP](http://ppsspp.org/) - PSP emulator.
+- [PPSSPP](http://ppsspp.org/)
 
 #### PlayStation 3
 
-- [RPCS3](https://rpcs3.net/) - PlayStation 3 emulator.
+- [RPCS3](https://rpcs3.net/)
