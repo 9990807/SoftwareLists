@@ -176,12 +176,12 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 #### Xbox
 
-- [Cxbx-Reloaded](https://cxbx-reloaded.co.uk/) - Xbox emulator.
+- [Cxbx-Reloaded](https://cxbx-reloaded.co.uk/)
 - [xemu](https://xemu.app/) - Xbox emulator.
 
 #### Xbox 360
 
-- [xenia](https://xenia.jp/) - Xbox 360 emulator.
+- [xenia](https://xenia.jp/)
 
 ### Nintendo
 
@@ -195,21 +195,21 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 #### Nintendo 64
 
-- [m64p](https://m64p.github.io/) - Nintendo 64 emulator.
-- [Project64](https://www.pj64-emu.com/) - Nintendo 64 emulator.
+- [m64p](https://m64p.github.io/)
+- [Project64](https://www.pj64-emu.com/)
 
 #### GameCube / Wii
 
-- [Dolphin](https://dolphin-emu.org/) - GameCube & Wii emulator.
+- [Dolphin](https://dolphin-emu.org/)
 
 #### Wii U
 
-- [Cemu](https://cemu.info/) - Wii U emulator.
+- [Cemu](https://cemu.info/)
 
 #### Switch
 
-- [yuzu](https://yuzu-emu.org/) - Switch emulator.
-- [Ryujinx](https://ryujinx.org/) - Switch emulator.
+- [yuzu](https://yuzu-emu.org/)
+- [Ryujinx](https://ryujinx.org/)
 
 #### Nintendo portables
 
