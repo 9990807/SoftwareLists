@@ -174,33 +174,50 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Microsoft
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/psp.gif" width="32" alt="Xbox">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/xbox.gif" width="32" alt="Xbox">
 
 - [Cxbx-Reloaded](https://cxbx-reloaded.co.uk/) - Xbox emulator.
 - [xemu](https://xemu.app/) - Xbox emulator.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/xbox360.gif" width="32" alt="Xbox">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/xbox360.gif" width="32" alt="Xbox 360">
 
 - [xenia](https://xenia.jp/) - Xbox 360 emulator.
 
 ### Nintendo
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/snintendo.gif" width="32" alt="Super Nintendo">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/snintendop.gif" width="32" alt="Super Nintendo pad">
+
 - [bsnes](https://github.com/bsnes-emu/bsnes) - Super Nintendo emulator.
 - [bsnes-hd](https://github.com/DerKoun/bsnes-hd) - A fork of bsnes with HD video features.
-- [Cemu](https://cemu.info/) - Wii U emulator.
-- [Citra](https://citra-emu.org/) - Nintendo 3DS emulator.
-- [DeSmuME](https://desmume.org/) - Nintendo DS emulator.
-- [Dolphin](https://dolphin-emu.org/) - GameCube & Wii emulator.
-- [melonDS](http://melonds.kuribo64.net/) - Nintendo DS emulator.
-- [m64p](https://m64p.github.io/) - Nintendo 64 emulator.
-- [mGBA](https://mgba.io/) - Game Boy Advance emulator.
 - [Mesen](https://github.com/SourMesen/Mesen/) - High-accuracy NES emulator.
 - [Mesen-S](https://github.com/SourMesen/Mesen-S/) - High-accuracy SNES, Game Boy and Game Boy Color emulator.
 - [Nestopia UE](https://sourceforge.net/projects/nestopiaue/files/) - NES/Famicom emulator.
+
+<br>
+
+- [Citra](https://citra-emu.org/) - Nintendo 3DS emulator.
+- [m64p](https://m64p.github.io/) - Nintendo 64 emulator.
+- [mGBA](https://mgba.io/) - Game Boy Advance emulator.
+
 - [Project64](https://www.pj64-emu.com/) - Nintendo 64 emulator.
-- [Ryujinx](https://ryujinx.org/) - Switch emulator.
-- [SameBoy](https://sameboy.github.io/) - Game Boy / Game Boy Color emulator.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ngc.gif" width="32" alt="PlayStation">
+
+- [Dolphin](https://dolphin-emu.org/) - GameCube & Wii emulator.
+
+<br>
+
+- [Cemu](https://cemu.info/) - Wii U emulator.
+
+<br>
+
 - [yuzu](https://yuzu-emu.org/) - Switch emulator.
+- [Ryujinx](https://ryujinx.org/) - Switch emulator.
+
+- [SameBoy](https://sameboy.github.io/) - Game Boy / Game Boy Color emulator.
+
+- [melonDS](http://melonds.kuribo64.net/) - Nintendo DS emulator.
+- [DeSmuME](https://desmume.org/) - Nintendo DS emulator.
 
 ### Sega
 
