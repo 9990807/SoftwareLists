@@ -195,13 +195,14 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 <br>
 
-- [Citra](https://citra-emu.org/) - Nintendo 3DS emulator.
 - [m64p](https://m64p.github.io/) - Nintendo 64 emulator.
 - [mGBA](https://mgba.io/) - Game Boy Advance emulator.
 
+#### <img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ngc.gif" width="32" alt="GameCube">&nbsp;&nbsp;&nbsp;&nbsp;GameCube
+
 - [Project64](https://www.pj64-emu.com/) - Nintendo 64 emulator.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ngc.gif" width="32" alt="PlayStation">
+&nbsp;&nbsp;&nbsp;&nbsp;GameCube<img src="https://raw.githubusercontent.com/9990807/WindowsSoftware/master/img/ngc.gif" width="32" alt="GameCube">
 
 - [Dolphin](https://dolphin-emu.org/) - GameCube & Wii emulator.
 
@@ -215,9 +216,9 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Ryujinx](https://ryujinx.org/) - Switch emulator.
 
 - [SameBoy](https://sameboy.github.io/) - Game Boy / Game Boy Color emulator.
-
 - [melonDS](http://melonds.kuribo64.net/) - Nintendo DS emulator.
 - [DeSmuME](https://desmume.org/) - Nintendo DS emulator.
+- [Citra](https://citra-emu.org/) - Nintendo 3DS emulator.
 
 ### Sega
 
