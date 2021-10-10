@@ -232,6 +232,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 #### PlayStation
 
 - [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux)
+- [DuckStation](https://github.com/stenzek/duckstation/)
 
 #### PlayStation 2
 
