@@ -63,7 +63,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [Aria2c](https://aria2.github.io/) - Command-line download utility, supports multi-connection downloads and BitTorrrent protocol.
 - [qBittorrent](https://www.qbittorrent.org/download.php) - BitTorrent client, open-source µTorrent replacement.
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with new features and patches.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Download videos from youtube and other platforms. A youtube-dl fork with new features and patches.
 
 ### Editors
 
