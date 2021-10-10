@@ -155,6 +155,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [86Box](https://86box.net/) - IBM PC emulator.
 - [DOSBox](https://www.dosbox.com/download.php?main=1) - MS-DOS emulator.
+- [DOSBox-X](https://dosbox-x.com/) - For of DOSBox with focus on accuracy and customization.
 - [DOSBox Pure](https://github.com/schellingb/dosbox-pure) - Fork of DOSBox made for simplicity and ease of use.
 - [PCem](https://www.pcem-emulator.co.uk/) - IBM PC emulator.
 - [ScummVM](https://www.scummvm.org/) - Executable replacement for classic graphical adventure and role-playing games.
