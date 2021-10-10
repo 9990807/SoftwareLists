@@ -122,7 +122,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 #### Players & Plugins
 
 - [madVR](http://www.madvr.com/) - DirectShow video renderer, high quality algorithms for scaling, sharpening, debanding, dithering etc.
-- [SVP](https://www.svp-team.com/get/) - Realtime framerate interpolation for video to produce smooth, fluid and clear motion.
+- [SVP](https://www.svp-team.com/get/) - Realtime framerate conversion for video to produce smooth, fluid and clear motion.
 - [VLC](https://www.videolan.org/vlc/) - Simple and reliable multimedia player, all codecs included.
 - [ZoomPlayer](https://zoomplayer.com/) - Highly customizable video player. Integrated codec management, media library mode with automated scraping.
 
