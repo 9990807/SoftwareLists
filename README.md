@@ -62,7 +62,8 @@ This repo is a curated collection of Windows applications and tools that I use r
 ### Download Tools
 
 - [Aria2c](https://aria2.github.io/) - Command-line download utility, supports multi-connection downloads and BitTorrrent protocol.
-- [qBittorrent](https://www.qbittorrent.org/download.php) - BitTorrent client, open-source µTorrent replacement.
+- [PicoTorrent](https://github.com/picotorrent/picotorrent) - Lightweight BitTorrent client in the spirit of the original μTorrent.
+- [qBittorrent](https://www.qbittorrent.org/download.php) - BitTorrent client.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Download videos from youtube and other platforms. A youtube-dl fork with new features and patches.
 
 ### Editors
@@ -175,6 +176,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 #### Various
 
+- [EDuke32](https://www.eduke32.com/) - Source port of Duke Nukem 3D.
 - [ScummVM](https://www.scummvm.org/) - Engine reimplementations for hundreds of classic graphical adventure and role-playing games.
 - [OpenTTD](https://www.openttd.org/) - Open-source remake and expansion of Transport Tycoon Deluxe (1994).
 
