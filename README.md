@@ -159,10 +159,9 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [DOSBox-X](https://dosbox-x.com/) - For of DOSBox with focus on accuracy and customization.
 - [DOSBox Pure](https://github.com/schellingb/dosbox-pure) - Fork of DOSBox made for simplicity and ease of use.
 - [PCem](https://www.pcem-emulator.co.uk/) - IBM PC emulator.
-- [ScummVM](https://www.scummvm.org/) - Executable replacement for classic graphical adventure and role-playing games.
 - [VICE](https://vice-emu.sourceforge.io/) - Commodore 64/128 emulator.
 
-### id Software
+### Ports & Reimplementations
 
 #### Doom
 
@@ -173,6 +172,11 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [DarkPlaces](https://icculus.org/twilight/darkplaces/) - Port of Quake with improved graphics and image quality.
 - [vkQuake](https://github.com/Novum/vkQuake) - Port of Quake using Vulkan for rendering. Based on QuakeSpasm and QuakeSpasm-Spiked.
+
+#### Various
+
+- [ScummVM](https://www.scummvm.org/) - Engine reimplementations for hundreds of classic graphical adventure and role-playing games.
+- [OpenTTD](https://www.openttd.org/) - Open-source remake and expansion of Transport Tycoon Deluxe (1994).
 
 ### Microsoft
 
