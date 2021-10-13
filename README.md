@@ -21,7 +21,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [Multi-system Emulators](#multi-system-emulators)
 - [Classic Computers](#classic-computers)
-- [Ports & Reimplementations](#ports-&-reimplementations)
+- [Ports & Reimplementations](#ports-and-reimplementations)
 - [Microsoft](#microsoft)
 - [Nintendo](#nintendo)
 - [Sega](#sega)
@@ -169,7 +169,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [PCem](https://www.pcem-emulator.co.uk/) - IBM PC emulator.
 - [VICE](https://vice-emu.sourceforge.io/) - Commodore 64/128 emulator.
 
-### Ports & Reimplementations
+### Ports and Reimplementations
 
 #### Doom
 
