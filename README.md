@@ -251,13 +251,13 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [PCSX2](https://pcsx2.net/)
 
-#### PlayStation Portable
-
-- [PPSSPP](http://ppsspp.org/)
-
 #### PlayStation 3
 
 - [RPCS3](https://rpcs3.net/)
+
+#### PlayStation Portable
+
+- [PPSSPP](http://ppsspp.org/)
 
 ***********
 
