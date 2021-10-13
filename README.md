@@ -1,4 +1,4 @@
-# Software Lists
+# Lobo's Software Lists
 
 This repo is a curated collection of Windows applications and tools that I use regularly.
 
@@ -263,3 +263,5 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Browser
 
+- [Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus) - 
+- []
