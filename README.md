@@ -27,6 +27,8 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Sega](#sega)
 - [Sony](#sony)
 
+## Android Apps
+
 ***********
 
 # Windows Software
@@ -254,3 +256,10 @@ This repo is a curated collection of Windows applications and tools that I use r
 #### PlayStation 3
 
 - [RPCS3](https://rpcs3.net/)
+
+***********
+
+# Android Apps
+
+### Browser
+
