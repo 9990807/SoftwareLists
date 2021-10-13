@@ -1,4 +1,4 @@
-# Lobo's Windows Software List
+# Windows Software
 
 This repo is a curated collection of Windows applications and tools that I use regularly.
 
