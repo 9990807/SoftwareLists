@@ -1,8 +1,8 @@
-# Windows Software
+# Software Lists
 
 This repo is a curated collection of Windows applications and tools that I use regularly.
 
-## Software
+## Windows Software
 
 - [Must-have](#must-have)
 - [Audio](#audio)
@@ -28,6 +28,8 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Sony](#sony)
 
 ***********
+
+# Windows Software
 
 ### Must-have
 
