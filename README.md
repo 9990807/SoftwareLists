@@ -264,4 +264,5 @@ This repo is a curated collection of Windows applications and tools that I use r
 ### Browser
 
 - [Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus) - 
-- []
+- [Bromite](https://github.com/bromite/bromite) - Chromium fork with support for ad blocking and enhanced privacy.
+- [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) - Chromium fork with full extensions support and integrated night mode.
