@@ -21,13 +21,15 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [Multi-system Emulators](#multi-system-emulators)
 - [Classic Computers](#classic-computers)
-- [id Software](#id-software)
+- [Ports & Reimplementations](#ports-&-reimplementations)
 - [Microsoft](#microsoft)
 - [Nintendo](#nintendo)
 - [Sega](#sega)
 - [Sony](#sony)
 
 ## Android Apps
+
+- [Browsers](#browsers)
 
 ***********
 
@@ -261,7 +263,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 # Android Apps
 
-### Browser
+### Browsers
 
 - [Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus) - 
 - [Bromite](https://github.com/bromite/bromite) - Chromium fork with support for ad blocking and enhanced privacy.
