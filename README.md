@@ -80,6 +80,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Enhancements
 
+- [Barrier](https://github.com/debauchee/barrier) - Software KVM switch.  Use a keyboard and mouse to control one or more other computers. Clipboard sharing is supported.
 - [Classic Shell](http://classicshell.net/) - Start menu enhancement.
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control Android devices connected on USB or over TCP/IP. No root required.
 - [Wox](http://www.wox.one/) - Text based launcher with plugin and theme support.
