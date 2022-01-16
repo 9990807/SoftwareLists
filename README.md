@@ -45,6 +45,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [Exact Audio Copy](https://www.exactaudiocopy.de/en/index.php/resources/download/) - Utility for ripping audio CDs.
 - [FLAC Encoder](https://www.pazera-software.com/build/flac/) - Encode audio files to FLAC, command line utility.
+- [foobar2000](https://www.foobar2000.org/) - Freeware advanced audio player for Windows.
 - [SoundSwitch](https://github.com/Belphemur/SoundSwitch) - Switch playback and recording devices with hotkeys.
 - [Winamp](http://winamp.com/) - Classic audio player since 1997, compact, versatile, modular.
 
