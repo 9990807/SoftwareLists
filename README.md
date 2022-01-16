@@ -167,8 +167,10 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [86Box](https://86box.net/) - IBM PC emulator.
 - [DOSBox](https://www.dosbox.com/download.php?main=1) - MS-DOS emulator.
-- [DOSBox-X](https://dosbox-x.com/) - For of DOSBox with focus on accuracy and customization.
+- [DOSBox ECE](https://dosboxece.wordpress.com/) - Fork of DOSBox with community patches for 3Dfx & Roland MT-32 emulation, pixel-perfect output, gamepad support and more.
 - [DOSBox Pure](https://github.com/schellingb/dosbox-pure) - Fork of DOSBox made for simplicity and ease of use.
+- [DOSBox Staging](https://dosbox-staging.github.io/) - Fork of DOSBox that focuses on ease of use, modern technology and best practices.
+- [DOSBox-X](https://dosbox-x.com/) - Fork of DOSBox with focus on accuracy and customization.
 - [PCem](https://www.pcem-emulator.co.uk/) - IBM PC emulator.
 - [VICE](https://vice-emu.sourceforge.io/) - Commodore 64/128 emulator.
 
