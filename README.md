@@ -201,7 +201,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 #### Xbox
 
 - [Cxbx-Reloaded](https://cxbx-reloaded.co.uk/)
-- [xemu](https://xemu.app/) - Xbox emulator.
+- [xemu](https://xemu.app/)
 
 #### Xbox 360
 
