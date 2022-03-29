@@ -43,6 +43,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Audio
 
+- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Much improved volume mixer to replace the Windows default.
 - [Exact Audio Copy](https://www.exactaudiocopy.de/en/index.php/resources/download/) - Utility for ripping audio CDs.
 - [FLAC Encoder](https://www.pazera-software.com/build/flac/) - Encode audio files to FLAC, command line utility.
 - [foobar2000](https://www.foobar2000.org/) - Freeware advanced audio player for Windows.
