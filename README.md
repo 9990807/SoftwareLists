@@ -195,6 +195,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 #### Various
 
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) - A reimplementation of the 1997 Bullfrog sim Theme Hospital with high resolutions support.
+- [DXX-Rebirth](https://www.dxx-rebirth.com/) - Source port of the Descent and Descent 2 engines.
 - [EDuke32](https://www.eduke32.com/) - Source port of Duke Nukem 3D.
 - [ScummVM](https://www.scummvm.org/) - Engine reimplementations for hundreds of classic graphical adventure and role-playing games.
 - [OpenTTD](https://www.openttd.org/) - Open-source remake and expansion of Transport Tycoon Deluxe (1994).
