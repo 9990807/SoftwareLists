@@ -114,9 +114,11 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 #### Administration & Tweaks
 
+- [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer) - Allows to list, add, and delete internal Windows store drivers. Useful for removing GBs of manily graphics drivers that cannot be removed otherwise.
 - [Fan Control](https://github.com/Rem0o/FanControl.Releases) - Highly customizable fan controlling software.
 - [KiTTY](https://www.fosshub.com/KiTTY.html) - A fork of PuTTY with several QoL improvements.
 - [NirLauncher ](https://launcher.nirsoft.net/) - Set of utilities for password recovery, system monitoring and advanced configuration.
+- [ShutUp10++](https://www.oo-software.com/en/shutup10) - Disable Windows 10 & 11 functions and limit the amount of data your computer sends to Microsoft.
 - [TigerVNC](https://tigervnc.org/) - Client/server application that allows users to launch and interact with graphical applications on remote machines.
 - [Ventoy](https://www.ventoy.net/en/download.html) - Tool to create bootable USB drives for ISO/WIM/IMG/VHD(x)/EFI files.
 - [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) - Various utilities to manage, troubleshoot and diagnose Windows systems and applications.
