@@ -38,8 +38,9 @@ This repo is a curated collection of Windows applications and tools that I use r
 ### Must-have
 
 - [Chocolatey](https://chocolatey.org/install) - Command-line Linux-like software package manager.
-- [Directory Opus](https://www.gpsoft.com.au/) - Complete replacement for Windows Explorer. Fully customizable, scripting, filters.
+- [Directory Opus](https://www.gpsoft.com.au/) - Complete replacement for Windows Explorer. Fully customizable with scripting, addons & custom filters.
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly.
+- [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - Clean NVidia drivers, install and update GeForce drivers removing components that you don't need or want.
 
 ### Audio
 
@@ -114,7 +115,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 #### Administration & Tweaks
 
-- [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer) - Allows to list, add, and delete internal Windows store drivers. Useful for removing GBs of manily graphics drivers that cannot be removed otherwise.
+- [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer) - Allows to list, add, and delete internal Windows store drivers. Useful for deleting GBs of manily graphics drivers that cannot be removed otherwise.
 - [Fan Control](https://github.com/Rem0o/FanControl.Releases) - Highly customizable fan controlling software.
 - [KiTTY](https://www.fosshub.com/KiTTY.html) - A fork of PuTTY with several QoL improvements.
 - [NirLauncher ](https://launcher.nirsoft.net/) - Set of utilities for password recovery, system monitoring and advanced configuration.
