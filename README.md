@@ -184,16 +184,25 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Ports and Reimplementations
 
-#### Doom
+#### Doom / Doom II (1993-94)
 
 - [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom) - Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s.
 - [GZDoom](https://www.zdoom.org/downloads) - Enhanced ports of the Doom engine with modern features.
 
-#### Quake
+#### Quake (1996)
 
-- [DarkPlaces](https://icculus.org/twilight/darkplaces/) - Port of Quake with improved graphics and image quality.
+- [DarkPlaces](https://icculus.org/twilight/darkplaces/) - Source port with improved graphics and image quality.
 - [Ironwail](https://github.com/andrei-drexler/ironwail) - A fork of QuakeSpasm with focus on performance.
-- [vkQuake](https://github.com/Novum/vkQuake) - Port of Quake using Vulkan for rendering. Based on QuakeSpasm and QuakeSpasm-Spiked.
+- [vkQuake](https://github.com/Novum/vkQuake) - Source port using Vulkan for rendering. Based on QuakeSpasm and QuakeSpasm-Spiked.
+
+#### Quake II (1997)
+
+- [Yamagi Quake 2](https://www.yamagi.org/quake2/) - Source port focusing on the original experience with some modern features. Most classic mods should work.
+- [vkQuake2](https://github.com/kondrak/vkQuake2) - Source port using Vulkan for rendering.
+
+#### Quake III Arena (1999)
+
+- [Quake3e](https://github.com/ec-/Quake3e) - Source port based on ioquake3.
 
 #### Various
 
@@ -206,6 +215,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [RVGL](https://rvgl.org/) - A port of Re-Volt (1999) with new renderer and modern features.
 - [ScummVM](https://www.scummvm.org/) - Engine reimplementations for hundreds of classic graphical adventure and role-playing games.
 - [OpenTTD](https://www.openttd.org/) - Open-source remake and expansion of Transport Tycoon Deluxe (1994).
+- [ECWolf](http://maniacsvault.net/ecwolf/) - Source port of Wolfenstein 3D (1992) with modern features and modding support.
 
 ### Microsoft
 
