@@ -186,7 +186,8 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 #### Doom / Doom II (1993-94)
 
-- [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom) - Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s.
+- [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom) - Source port that accurately reproduces the experience of Doom as it was played in the 1990s.
+- [FastDoom](https://github.com/viti95/FastDoom) - Port for DOS with focus on making it as fast as posible for 386/486 PCs.
 - [GZDoom](https://www.zdoom.org/downloads) - Enhanced ports of the Doom engine with modern features.
 
 #### Quake (1996)
