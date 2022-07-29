@@ -203,6 +203,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [EDuke32](https://www.eduke32.com/) - Source port of Duke Nukem 3D (1996).
 - [FreeSynd](https://freesynd.sourceforge.io/) - A reimplementation of the Bullfrog RTS Syndicate (1993).
 - [Rigel Engine](https://github.com/lethal-guitar/RigelEngine) - A reimplementation of Duke Nukem II (1993).
+- [RVGL](https://rvgl.org/) - A port of Re-Volt (1999) with new renderer and modern features.
 - [ScummVM](https://www.scummvm.org/) - Engine reimplementations for hundreds of classic graphical adventure and role-playing games.
 - [OpenTTD](https://www.openttd.org/) - Open-source remake and expansion of Transport Tycoon Deluxe (1994).
 
