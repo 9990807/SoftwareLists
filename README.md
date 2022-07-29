@@ -214,6 +214,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Rigel Engine](https://github.com/lethal-guitar/RigelEngine) - A reimplementation of Duke Nukem II (1993).
 - [RVGL](https://rvgl.org/) - A port of Re-Volt (1999) with new renderer and modern features.
 - [ScummVM](https://www.scummvm.org/) - Engine reimplementations for hundreds of classic graphical adventure and role-playing games.
+- [Syndicate Wars Port](http://swars.vexillium.org/) - A port of Syndicate Wars (1996).
 - [OpenTTD](https://www.openttd.org/) - Open-source remake and expansion of Transport Tycoon Deluxe (1994).
 - [ECWolf](http://maniacsvault.net/ecwolf/) - Source port of Wolfenstein 3D (1992) with modern features and modding support.
 
