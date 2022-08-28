@@ -291,6 +291,10 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [PPSSPP](http://ppsspp.org/)
 
+#### PlayStation Vita
+
+- [Vita3K](https://vita3k.org/)
+
 ***********
 
 # Android Apps
