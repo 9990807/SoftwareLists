@@ -29,7 +29,8 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ## Android Apps
 
-- [Browsers](#browsers)
+- [Must-have](#android-must-have)
+- [Browsers](#android-browsers)
 
 ***********
 
@@ -299,14 +300,14 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 # Android Apps
 
-### Must-have
+### Andorid Must-have
 
 - [K-9 Mail](https://k9mail.app/) - Open source email client.
 - [NewPipe x SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases/) - A fork of NewPipe (Open source lightweight YouTube front-end) with SponsorBlock and Return YouTube Dislike functionality.
 - [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - Local DNS filter proxy.
 - [Tasks](https://tasks.org/) - Open source To-Do Lists & Reminders.
 
-### Browsers
+### Android Browsers
 
 - [Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus) - Minimalistic, privacy by default Firefox based browser.
 - [Bromite](https://github.com/bromite/bromite) - Chromium fork with support for ad blocking and enhanced privacy.
