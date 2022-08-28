@@ -302,6 +302,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### Android Must-have
 
+- [Binary Eye](https://github.com/markusfisch/BinaryEye) - Open source QR scanner.
 - [K-9 Mail](https://k9mail.app/) - Open source email client.
 - [NewPipe x SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases/) - A fork of NewPipe (Open source lightweight YouTube front-end) with SponsorBlock and Return YouTube Dislike functionality.
 - [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - Local DNS filter proxy.
