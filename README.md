@@ -150,7 +150,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [FFmpeg](https://ffmpeg.org/download.html) - Command-line utility for converting and processing video and audio.
 - [HandBrake](https://handbrake.fr/) - Video transcoding.
-- [lossless-cut](https://github.com/mifi/lossless-cut) [![Chocolatey][:chocolate_bar:]](choco install lossless-cut) - Lossless trimming and cutting of video and audio files.
+- [lossless-cut](https://github.com/mifi/lossless-cut) [![Chocolatey][:chocolate_bar:]](https:choco install lossless-cut) - Lossless trimming and cutting of video and audio files.
 - [MakeMKV](https://makemkv.com/download/) - Converts proprietary encrypted DVD and Blu-ray discs into a set of MKV files losslessly.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) - Display technical data for video and audio files.
 - [MKVToolNix](https://mkvtoolnix.download/) - Set of tools to create, alter and inspect Matroska (MKV) files.
