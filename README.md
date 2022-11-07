@@ -219,6 +219,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Syndicate Wars Port](http://swars.vexillium.org/) - A port of Syndicate Wars (1996).
 - [OpenTTD](https://www.openttd.org/) - Open-source remake and expansion of Transport Tycoon Deluxe (1994).
 - [ECWolf](http://maniacsvault.net/ecwolf/) - Source port of Wolfenstein 3D (1992) with modern features and modding support.
+- [OpenXcom](https://openxcom.org/) - Open-source clone of the original UFO: Enemy Unknown (1994) with fixes and mods support.
 
 ### Microsoft
 
