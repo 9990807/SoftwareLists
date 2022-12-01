@@ -87,7 +87,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 ### Enhancements
 
 - [Barrier](https://github.com/debauchee/barrier) - Software KVM switch.  Use a keyboard and mouse to control one or more other computers. Clipboard sharing is supported.
-- [Classic Shell](http://classicshell.net/) - Start menu enhancement.
+- [Open-Shell-Menu](https://open-shell.github.io/Open-Shell-Menu/) - Start menu enhancement.
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control Android devices connected on USB or over TCP/IP. No root required.
 - [Wox](http://www.wox.one/) - Text based launcher with plugin and theme support.
 
@@ -205,6 +205,11 @@ This repo is a curated collection of Windows applications and tools that I use r
 #### Quake III Arena (1999)
 
 - [Quake3e](https://github.com/ec-/Quake3e) - Source port based on ioquake3.
+
+#### Doom 3 (2004)
+
+- [dhewm3](https://dhewm3.org/) - Source port of the original Doom 3 with bugfixes & widescreed support.
+- [RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG/) - Port of Doom 3 BFG Edition with modern features, lighting and a level editor.
 
 #### Various
 
