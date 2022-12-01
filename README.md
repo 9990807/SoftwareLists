@@ -196,6 +196,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [DarkPlaces](https://icculus.org/twilight/darkplaces/) - Source port with improved graphics and image quality.
 - [Ironwail](https://github.com/andrei-drexler/ironwail) - A fork of QuakeSpasm with focus on performance.
 - [vkQuake](https://github.com/Novum/vkQuake) - Source port using Vulkan for rendering. Based on QuakeSpasm and QuakeSpasm-Spiked.
+- [vkQuake-RT](https://github.com/sultim-t/vkquake-rt) - Source port based on vkQuake with a path tracing renderer.
 
 #### Quake II (1997)
 
