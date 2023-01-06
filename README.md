@@ -111,6 +111,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [Acrylic DNS Proxy](https://mayakron.altervista.org/support/acrylic/Home.htm) - Local DNS proxy with caching, custom HOSTS file that supports wildcards and regular expressions.
 - [KeePassXC](https://keepassxc.org/) - Local password manager.
+- [Portmaster](https://safing.io/) - Open-source application firewall. Monitor network activity, blacklist/whitelist executables & advanced filtering settings.
 
 ### System Utilities
 
@@ -178,7 +179,6 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [DOSBox ECE](https://dosboxece.wordpress.com/) - Fork of DOSBox with community patches for 3Dfx & Roland MT-32 emulation, pixel-perfect output & modern gamepad support.
 - [DOSBox Game Launcher](https://dbgl.org/) - Frontend for DOSBox
 - [DOSBox Pure](https://github.com/schellingb/dosbox-pure) - Fork of DOSBox made for simplicity and ease of use.
-- [DOSBox Staging](https://dosbox-staging.github.io/) - Fork of DOSBox that focuses on ease of use, modern technology and best practices.
 - [DOSBox-X](https://dosbox-x.com/) - Fork of DOSBox with focus on accuracy and customization.
 - [PCem](https://www.pcem-emulator.co.uk/) - IBM PC emulator.
 - [VICE](https://vice-emu.sourceforge.io/) - Commodore 64/128 emulator.
@@ -219,6 +219,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [DXX-Rebirth](https://www.dxx-rebirth.com/) - Source port of the Descent and Descent 2 engines.
 - [EDuke32](https://www.eduke32.com/) - Source port of Duke Nukem 3D (1996).
 - [FreeSynd](https://freesynd.sourceforge.io/) - A reimplementation of the Bullfrog RTS Syndicate (1993).
+- [NBlood](https://lerppu.net/wannabethesis/) - Port of Blood (1997) based on EDuke32.
 - [Rigel Engine](https://github.com/lethal-guitar/RigelEngine) - A reimplementation of Duke Nukem II (1993).
 - [RVGL](https://rvgl.org/) - A port of Re-Volt (1999) with new renderer and modern features.
 - [ScummVM](https://www.scummvm.org/) - Engine reimplementations for hundreds of classic graphical adventure and role-playing games.
