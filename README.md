@@ -74,7 +74,6 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [Aria2c](https://aria2.github.io/) - Command-line download utility, supports multi-connection downloads and BitTorrrent protocol.
 - [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories listings in 100+ supported formats, including FTP(S) & Google Drive.
-- [PicoTorrent](https://github.com/picotorrent/picotorrent) - Lightweight BitTorrent client in the spirit of the original μTorrent.
 - [qBittorrent](https://www.qbittorrent.org/download.php) - BitTorrent client.
 - [Wget](https://eternallybored.org/misc/wget/) - Robust command-line download tool.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Download videos from youtube and other platforms. A youtube-dl fork with new features and patches.
