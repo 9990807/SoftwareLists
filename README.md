@@ -19,6 +19,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ## Gaming
 
+- [General tools](#general-tools)
 - [Multi-system Emulators](#multi-system-emulators)
 - [Classic Computers](#classic-computers)
 - [Ports & Reimplementations](#ports-and-reimplementations)
@@ -159,6 +160,11 @@ This repo is a curated collection of Windows applications and tools that I use r
 ***********
 
 # Gaming
+
+### General tools
+
+- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) - Utility for monitoring, overclocking, undervolting, benchmark GPUs (vendor agnostic).
+- [NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify game profiles inside the internal driver database of the Nvidia driver.
 
 ### Multi-system Emulators
 
