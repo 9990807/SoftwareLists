@@ -166,6 +166,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Game Backup Monitor](https://mikemaximus.github.io/gbm-web/) - Manage & backup your savegames with optional cloud support.
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) - Utility for monitoring, overclocking, undervolting & benchmarking GPUs (vendor agnostic).
 - [NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify game profiles inside the internal driver database of the Nvidia driver.
+- [Special K](https://special-k.info/) - Tool for fixing and enhance graphics, detailed performance analysis and correction mods.
 
 ### Multi-system Emulators
 
