@@ -89,6 +89,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Barrier](https://github.com/debauchee/barrier) - Software KVM switch.  Use a keyboard and mouse to control one or more other computers. Clipboard sharing is supported.
 - [Open-Shell-Menu](https://open-shell.github.io/Open-Shell-Menu/) - Start menu replacement.
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control Android devices connected on USB or over TCP/IP. No root required.
+- [Sizer](http://brianapps.net/sizer4/) - Resize and align windows quickly.
 - [Wox](http://www.wox.one/) - Text based launcher with plugin and theme support.
 
 ### File Management
