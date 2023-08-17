@@ -67,6 +67,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Chromium web store](https://github.com/NeverDecaf/chromium-web-store) - (For ungoogled chromium) Allows installing extensions directly from chrome web store and check for updates.
 - [Context Menu Search](https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga) - Use the right-click menu to search for selected text in different search engines.
 - [Dark Reader](https://darkreader.org/) - Dark mode for the web.
+- [DeArrow](https://dearrow.ajay.app/) - Crowdsourced titles and thumbnails on YouTube. No more arrows, ridiculous faces, and no more clickbait.
 - [New Tab Redirect](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna) - Allows a user to provide the URL of the page that loads in a new tab. You can use local files.
 - [SponsorBlock](https://sponsor.ajay.app/) - Crowdsourced API for skipping sponsor segments in YouTube videos.
 - [uBlock Origin](https://ublockorigin.com/) - Free, open-source ad content blocker.
@@ -144,9 +145,8 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [madVR](http://www.madvr.com/) - DirectShow video renderer, high quality algorithms for scaling, sharpening, debanding, dithering etc.
 - [LAVFilters](https://github.com/Nevcairiel/LAVFilters) - ffmpeg based DirectShow Splitter and Decoders which will allow you to play virtually any format in a DirectShow player.
 - [MPC-HC](https://github.com/clsid2/mpc-hc) - Light-weight 64 bit media player, codecs and filters included.
-- [SVP](https://www.svp-team.com/get/) - Realtime framerate conversion for video to produce smooth, fluid and clear motion.
+- [SVP](https://www.svp-team.com/get/) - Realtime framerate conversion for video to produce smooth, fluid and clear motion. Now with HW accelerated RIFE AI interpolation.
 - [VLC](https://www.videolan.org/vlc/) - Simple and reliable media player, codecs included.
-- [ZoomPlayer](https://zoomplayer.com/) - Highly customizable media player. Integrated codec management, media library mode with automated scraping.
 
 #### Encoding & Processing
 
@@ -224,6 +224,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 #### Various
 
+- [ArxLibertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis (2002).
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) - A reimplementation of the Bullfrog sim Theme Hospital (1997) with high resolutions support.
 - [DevilutionX](https://github.com/diasurgical/devilutionx) - Source port of Diablo and Hellfire (1997) with enhancements and QoL improvements.
 - [DXX-Rebirth](https://www.dxx-rebirth.com/) - Source port of the Descent and Descent 2 engines.
