@@ -125,7 +125,6 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [NirLauncher ](https://launcher.nirsoft.net/) - Set of utilities for password recovery, system monitoring and advanced configuration.
 - [ShutUp10++](https://www.oo-software.com/en/shutup10) - Disable Windows 10 & 11 functions and limit the amount of data your computer sends to Microsoft.
 - [TigerVNC](https://tigervnc.org/) - Client/server application that allows users to launch and interact with graphical applications on remote machines.
-- [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html) - Browse all USB controllers and connected USB devices on your computer. Great for troubleshooting.
 - [Ventoy](https://www.ventoy.net/en/download.html) - Tool to create bootable USB drives for ISO/WIM/IMG/VHD(x)/EFI files.
 - [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) - Various utilities to manage, troubleshoot and diagnose Windows systems and applications.
 
@@ -138,6 +137,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU information.
 - [HWiNFO](https://www.hwinfo.com/download/) - In-depth hardware information and real-time monitoring.
 - [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/) - Monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
+- [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html) - Browse all USB controllers and connected USB devices on your computer. Great for troubleshooting.
 
 ### Video
 
