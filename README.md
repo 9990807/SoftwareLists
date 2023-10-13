@@ -79,7 +79,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ##### Firefox only
 
-- [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) - Vertical tabs with grouping, panels and extensible configuration options.
+- [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) - Vertical tabs with grouping, panels and extensive configuration options.
 - [Tab Stash](https://josh-berry.github.io/tab-stash/) - Save and manage open tabs as bookmarks.
 
 ### Download Tools
