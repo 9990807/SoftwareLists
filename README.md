@@ -64,13 +64,23 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 #### Addons
 
-- [Chromium web store](https://github.com/NeverDecaf/chromium-web-store) - (For ungoogled chromium) Allows installing extensions directly from chrome web store and check for updates.
-- [Context Menu Search](https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga) - Use the right-click menu to search for selected text in different search engines.
+- [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Delete cookies and more automatically when a tab is closed.
 - [Dark Reader](https://darkreader.org/) - Dark mode for the web.
 - [DeArrow](https://dearrow.ajay.app/) - Crowdsourced titles and thumbnails on YouTube. No more arrows, ridiculous faces, and no more clickbait.
-- [New Tab Redirect](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna) - Allows a user to provide the URL of the page that loads in a new tab. You can use local files.
 - [SponsorBlock](https://sponsor.ajay.app/) - Crowdsourced API for skipping sponsor segments in YouTube videos.
 - [uBlock Origin](https://ublockorigin.com/) - Free, open-source ad content blocker.
+- [Unhook](https://unhook.app/) - Hide distractions for a more pleasant YouTube experience.
+
+##### Chrome only
+
+- [Chromium web store](https://github.com/NeverDecaf/chromium-web-store) - (For ungoogled chromium) Allows installing extensions directly from chrome web store and check for updates.
+- [Context Menu Search](https://chrome.google.com/webstore/detail/context-menu-search/ocpcmghnefmdhljkoiapafejjohldoga) - Use the right-click menu to search for selected text in different search engines.
+- [New Tab Redirect](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna) - Allows a user to provide the URL of the page that loads in a new tab. You can use local files.
+
+##### Firefox only
+
+- [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) - Vertical tabs with grouping, panels and extensible configuration options.
+- [Tab Stash](https://josh-berry.github.io/tab-stash/) - Save and manage open tabs as bookmarks.
 
 ### Download Tools
 
@@ -100,8 +110,8 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [ImageUSB](https://www.osforensics.com/tools/write-usb-images.html) - Create and write images from and to USB devices.
 - [ImgBurn](https://www.imgburn.com/) - Lightweight and configurable CD / DVD / HD DVD / Blu-ray burning application.
 - [OpenHashTab](https://github.com/namazso/OpenHashTab) - Shell extension for calculating and checking file hashes from file properties.
-- [TreeSize Free](https://www.jam-software.com/treesize_free) - Scan drives/folders quickly and visualize the relative size of the space used per file/folder.
 - [UltraISO](https://www.ultraiso.com/download.html) - ISO CD/DVD image file creating, editing, emulating tool.
+- [WizTree](https://www.diskanalyzer.com/) - Fast disk space usage analyzer.
 
 ### Graphics
 
