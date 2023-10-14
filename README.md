@@ -146,6 +146,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - HDD/SSD S.M.A.R.T. information.
 - [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU information.
 - [HWiNFO](https://www.hwinfo.com/download/) - In-depth hardware information and real-time monitoring.
+- [LatencyMon](https://resplendence.com/latencymon) - Analyzes the possible causes of buffer underruns by measuring kernel timer latencies and reporting execution times.
 - [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/) - Monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
 - [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html) - Browse all USB controllers and connected USB devices on your computer. Great for troubleshooting.
 
