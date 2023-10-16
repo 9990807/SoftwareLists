@@ -210,14 +210,12 @@ This repo is a curated collection of Windows applications and tools that I use r
 #### Doom / Doom II (1993-94)
 
 - [GZDoom](https://www.zdoom.org/downloads) - Enhanced ports of the Doom engine with modern features.
-
 - [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom) - Source port that accurately reproduces the experience of Doom as it was played in the 1990s.
 - [FastDoom](https://github.com/viti95/FastDoom) - Port for DOS with focus on making it as fast as posible for 386/486 PCs.
 
 #### Quake (1996)
 
 - [vkQuake](https://github.com/Novum/vkQuake) - Source port using Vulkan for rendering. Based on QuakeSpasm and QuakeSpasm-Spiked.
-
 - [DarkPlaces](https://icculus.org/twilight/darkplaces/) - Source port with improved graphics and image quality.
 - [Ironwail](https://github.com/andrei-drexler/ironwail) - A fork of QuakeSpasm with focus on performance.
 - [vkQuake-RT](https://github.com/sultim-t/vkquake-rt) - Source port based on vkQuake with a path tracing renderer.
