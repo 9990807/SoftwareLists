@@ -182,6 +182,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify game profiles inside the internal driver database of the Nvidia driver.
 - [ReShade](https://reshade.me/) - Post-processing injector for games and video software.
 - [Special K](https://special-k.info/) - Tool for fixing and enhance graphics, detailed performance analysis and correction mods.
+- [TvGameLauncher](https://sourceforge.net/projects/tvgamelauncher/) - Launch any game on your TV, making it the primary monitor, setting HDMI audio as the default playback device. All changes are reverted once the game exits.
 
 ### Multi-system Emulators
 
