@@ -44,7 +44,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly.
 - [Geek Uninstaller](https://geekuninstaller.com/) - Uninstall software and remove leftovers.
 - [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - Clean NVidia drivers, install and update GeForce drivers removing components that you don't need or want.
-- [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Disable unwanted functions from Windows 10/11.
+- [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Disable unwanted features from Windows 10/11.
 
 ### Audio
 
