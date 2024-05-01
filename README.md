@@ -42,7 +42,9 @@ This repo is a curated collection of Windows applications and tools that I use r
 - [Chocolatey](https://chocolatey.org/install) - Command-line Linux-like software package manager.
 - [Directory Opus](https://www.gpsoft.com.au/) - Complete replacement for Windows Explorer. Fully customizable with scripting, addons & custom filters.
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly.
+- [Geek Uninstaller](https://geekuninstaller.com/) - Uninstall software and remove leftovers.
 - [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - Clean NVidia drivers, install and update GeForce drivers removing components that you don't need or want.
+- [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Disable unwanted functions from Windows 10/11.
 
 ### Audio
 
@@ -340,9 +342,10 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 - [Binary Eye](https://github.com/markusfisch/BinaryEye) - Open source QR scanner.
 - [K-9 Mail](https://k9mail.app/) - Open source email client.
-- [NewPipe x SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases/) - A fork of NewPipe (Open source lightweight YouTube front-end) with SponsorBlock functionality.
 - [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - Local DNS filter proxy.
 - [Tasks](https://tasks.org/) - Open source To-Do Lists & Reminders.
+- [Tubular](https://github.com/polymorphicshade/Tubular/releases) - A fork of NewPipe (Open source lightweight YouTube front-end) with SponsorBlock functionality.
+
 
 ### Android Browsers
 
