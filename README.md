@@ -118,6 +118,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 ### Graphics
 
 - [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) - Image browser, converter and editor.
+- [Krita](https://krita.org/en/) - Free and open-source digital painting application. Excellent interface and advanced features.
 - [Paint.NET](https://www.getpaint.net/download.html) - Simple image editor with layers, filters and plugins.
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - Record a selected area of your screen and save it to GIF or video.
 
