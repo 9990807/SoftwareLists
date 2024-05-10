@@ -179,6 +179,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 
 ### General tools
 
+- [D3D9 wrapper](https://github.com/ThirteenAG/d3d9-wrapper) - Force windowed mode, set FPS limits and other useful features.
 - [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/) - An implementation of old graphics API's (Glide, DirectX 1-7, Direct3D 8.1-9) on Direct3D 11/12.
 - [Game Backup Monitor](https://mikemaximus.github.io/gbm-web/) - Manage & backup your savegames with optional cloud support.
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) - Utility for monitoring, overclocking, undervolting & benchmarking GPUs (vendor agnostic).
