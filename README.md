@@ -143,6 +143,7 @@ This repo is a curated collection of Windows applications and tools that I use r
 #### Info, Benchmarks & Diagnostics
 
 - [ATTO Disk Benchmark](https://www.atto.com/disk-benchmark/) - Test storage controllers, host adapters, hard drives or SSD drives, custom transfer size and queue depths.
+- [BenchMate](https://benchmate.org/) - PC Benchmark validation suite.
 - [CapFrameX](https://github.com/CXWorld/CapFrameX) - GPU benchmarking with frametimes capture.
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU, motherboard and memory information.
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - HDD/SSD S.M.A.R.T. information.
