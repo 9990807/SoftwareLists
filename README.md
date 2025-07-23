@@ -337,7 +337,7 @@ This repo is a curated collection of software and tools that I use regularly.
 ### Android Must-have
 
 - [Aegis Authenticator](https://getaegis.app/) - Open source app for managing 2FA tokens for different services.
-- [Aves Gallery](https://github.com/deckerst/aves) - Open source gallery. Motion photos support, tags, and identifies main properties easily.
+- [Aves Gallery](https://github.com/deckerst/aves) - Open source gallery. Motion photos support, tags, media scanning and presents main properties visually.
 - [Binary Eye](https://github.com/markusfisch/BinaryEye) - Open source QR scanner.
 - [Bura](https://github.com/davidtakac/bura/) - Open source weather app.
 - [Calendar](https://github.com/FossifyOrg/Calendar) - Open source minimalistic and offline calendar. Forked from the [doomed](https://www.androidauthority.com/simple-mobile-tools-acquisition-3391041/) "Simple Calendar".
