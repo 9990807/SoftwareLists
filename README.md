@@ -342,8 +342,10 @@ This repo is a curated collection of software and tools that I use regularly.
 
 ### Android Must-have
 
+- [Aves Gallery](https://github.com/deckerst/aves) - Open source gallery. Motion photos support, tags, and identifies main properties easily.
 - [Binary Eye](https://github.com/markusfisch/BinaryEye) - Open source QR scanner.
 - [K-9 Mail](https://k9mail.app/) - Open source email client.
+- [NetGuard](https://play.google.com/store/apps/details?id=eu.faircode.netguard&hl=en-US) - Local firewall, block intenet access per app.
 - [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - Local DNS filter proxy.
 - [Tasks](https://tasks.org/) - Open source To-Do Lists & Reminders.
 - [Tubular](https://github.com/polymorphicshade/Tubular/releases) - A fork of NewPipe (Open source lightweight YouTube front-end) with SponsorBlock functionality.
@@ -352,7 +354,7 @@ This repo is a curated collection of software and tools that I use regularly.
 ### Android Browsers
 
 - [Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus) - Minimalistic, privacy by default Firefox based browser.
-- [Bromite](https://github.com/bromite/bromite) - Chromium fork with support for ad blocking and enhanced privacy.
+- [Cromite](https://github.com/uazo/cromite) - Chromium fork with support for ad blocking and enhanced privacy.
 - [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) - Chromium fork with full extensions support and integrated night mode.
 
 
