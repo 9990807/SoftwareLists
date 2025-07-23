@@ -294,18 +294,12 @@ This repo is a curated collection of software and tools that I use regularly.
 
 - [Cemu](https://cemu.info/)
 
-#### Switch
-
-- [Ryujinx](https://ryujinx.org/)
-- [yuzu](https://yuzu-emu.org/)
-
 #### Nintendo portables
 
 - [SameBoy](https://sameboy.github.io/) - Game Boy / Game Boy Color emulator.
 - [mGBA](https://mgba.io/) - Game Boy Advance emulator.
 - [melonDS](http://melonds.kuribo64.net/) - Nintendo DS emulator.
 - [DeSmuME](https://desmume.org/) - Nintendo DS emulator.
-- [Citra](https://citra-emu.org/) - Nintendo 3DS emulator.
 
 ### Sega
 
@@ -342,11 +336,13 @@ This repo is a curated collection of software and tools that I use regularly.
 
 ### Android Must-have
 
+- [Aegis Authenticator](https://getaegis.app/) - Open source app for managing 2FA tokens for different services.
 - [Aves Gallery](https://github.com/deckerst/aves) - Open source gallery. Motion photos support, tags, and identifies main properties easily.
 - [Binary Eye](https://github.com/markusfisch/BinaryEye) - Open source QR scanner.
+- [Bura](https://github.com/davidtakac/bura/) - Open source weather app.
+- [Calendar](https://github.com/FossifyOrg/Calendar) - Open source minimalistic and offline calendar. Forked from the [doomed](https://www.androidauthority.com/simple-mobile-tools-acquisition-3391041/) "Simple Calendar".
 - [K-9 Mail](https://k9mail.app/) - Open source email client.
 - [NetGuard](https://play.google.com/store/apps/details?id=eu.faircode.netguard&hl=en-US) - Local firewall, block intenet access per app.
-- [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) - Local DNS filter proxy.
 - [Tasks](https://tasks.org/) - Open source To-Do Lists & Reminders.
 - [Tubular](https://github.com/polymorphicshade/Tubular/releases) - A fork of NewPipe (Open source lightweight YouTube front-end) with SponsorBlock functionality.
 
