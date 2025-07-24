@@ -247,6 +247,7 @@ This repo is a curated collection of software and tools that I use regularly.
 
 - [ArxLibertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis (2002).
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) - A reimplementation of the Bullfrog sim Theme Hospital (1997) with high resolutions support.
+- [Dethrace](https://github.com/dethrace-labs/dethrace) - Reimplemetation of Carmageddon (1997) for modern systems.
 - [DevilutionX](https://github.com/diasurgical/devilutionx) - Source port of Diablo and Hellfire (1997) with enhancements and QoL improvements.
 - [DXX-Rebirth](https://www.dxx-rebirth.com/) - Source port of the Descent and Descent 2 engines.
 - [EDuke32](https://www.eduke32.com/) - Source port of Duke Nukem 3D (1996).
