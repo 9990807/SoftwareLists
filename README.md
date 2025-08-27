@@ -148,6 +148,7 @@ This repo is a curated collection of software and tools that I use regularly.
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU, motherboard and memory information.
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - HDD/SSD S.M.A.R.T. information.
 - [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU information.
+- [h2testw](https://h2testw.org/) - Test the speed and memory capacity of flash drives, SD cards and HDD.
 - [HWiNFO](https://www.hwinfo.com/download/) - In-depth hardware information and real-time monitoring.
 - [LatencyMon](https://resplendence.com/latencymon) - Analyzes the possible causes of buffer underruns by measuring kernel timer latencies and reporting execution times.
 - [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/) - Monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
