@@ -50,7 +50,7 @@ This repo is a curated collection of software and tools that I use regularly.
 
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Much improved volume mixer to replace the Windows default.
 - [Exact Audio Copy](https://www.exactaudiocopy.de/en/index.php/resources/download/) - Utility for ripping audio CDs.
-- [FLAC Encoder](https://www.pazera-software.com/build/flac/) - Encode audio files to FLAC, command line utility.
+- [FLAC Encoder](https://xiph.org/flac/download.html) - Encode audio files to FLAC, command line utility.
 - [foobar2000](https://www.foobar2000.org/) - Freeware advanced audio player for Windows.
 - [SoundSwitch](https://github.com/Belphemur/SoundSwitch) - Switch playback and recording devices with hotkeys.
 - [Winamp](http://winamp.com/) - Classic audio player since 1997, compact, versatile, modular.
