@@ -63,7 +63,7 @@ This repo is a curated collection of software and tools that I use regularly.
 
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - Free and open-source web browser.
 
-#  [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
+###  [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
       choco install firefox
 
 - [Ungoogled Chromium](https://chromium.woolyss.com/) - Chromium without dependencies on Google web services and tweaks to enhance privacy.
